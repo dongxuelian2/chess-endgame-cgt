@@ -4,7 +4,7 @@
 
 ## 当前进展
 
-研究记录更新于 **2026-10-29**：核读基础与后续文献后，已从 Elkies 的既有递推推导出单封堵列族的完整分类，附证明和有限剩余类证书。该分类的独立新颖性尚未确认。
+研究记录更新于 **2026-10-29**：已从 Elkies 的既有递推得到单封堵列分类，并以计算机辅助证明确定双封堵列的精确容量 **$M_2=5$**，附无限覆盖论证及两份独立有限证书。这些项目推论的新颖性尚未确认。
 
 - Elkies 已构造分数、无穷小和若干循环值；相应解释依赖明确的正常制转译或循环模型。
 - 无 stopped files 的兵链已有严格的 10 周期公式；带 stopped files 的兵链已有含 entailing 状态的递推。
@@ -13,7 +13,19 @@
 
 这些结论的出处、适用范围和历史问题审计见 [文献记录](research/literature.md)。标准棋局、约化局部博弈与无限棋盘的序数值不是同一种对象；具体等价关系见 [定义](research/definitions.md)。
 
-## 单封堵列分类
+## 双封堵列容量与周期
+
+在 Elkies 的 stopped-file 模型中，令 $F(a,b,c)=\epsilon(0^a10^b10^c)$，其中 $a,c\ge0,b\ge1$。已证明全部参数下 $F\le5$，且 $F(0,5,10)=5$。结合零／单封堵列结果，有
+
+$$
+M_0=1,\qquad M_1=3,\qquad M_2=5.
+$$
+
+三个坐标均有统一最终周期 10：外侧长度从 2 起、中间长度从 11 起。这些阈值对周期 10 均最优。证明保留普通冒号、停止冒号及一步记忆，再将全部无限参数的递推恒等式归约到有限代表；两份独立实现分别使用通用词递推和参数特化递推。原始兵规则搜索另确认了两个单封堵列关键实例及双封堵列指标 4 的实例。
+
+详见 [双封堵列分析](research/two-stop-analysis.md) 与 [完整证明](research/two-stop-proof.md)。结论针对单个抽象静止词分量；一般固定封堵列数的容量仍待研究。
+
+## 单封堵列结果
 
 在 Elkies 的 stopped-file 模型中，记
 
@@ -37,8 +49,9 @@ $$
 - [AGENTS.md](AGENTS.md)：长期数学研究规范。
 - [research/literature.md](research/literature.md)：基础论文、后续理论和检索记录。
 - [research/definitions.md](research/definitions.md)：模型、符号、等价与分解条件。
+- [research/two-stop-proof.md](research/two-stop-proof.md)：双封堵列精确容量、统一周期及完整有限状态分类。
 - [research/open-problems.md](research/open-problems.md)：三个方向、问题状态和排序。
 - [research/ideas.md](research/ideas.md)：首项研究的命题、证明路线和审查要求。
-- [research/checks/](research/checks/)：有限剩余类证书及独立三行兵规则检查，均只用 Python 标准库。
+- [research/checks/](research/checks/)：Python 标准库有限证书及独立的 Python/C++ 三行兵规则检查。
 
-下一步优先补完新颖性核查与证明审查。尚未开始多封堵列研究或论文投稿。
+下一步研究双封堵列分类的概念性简化及固定封堵列数的结构界，并继续核查新颖性；尚未进行论文投稿。
