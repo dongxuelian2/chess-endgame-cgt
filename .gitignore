@@ -1,0 +1,21 @@
+# Local research scratch work
+.scratch/
+__pycache__/
+*.pyc
+
+# LaTeX build products
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# OS files
+Thumbs.db
+.DS_Store
