@@ -184,3 +184,67 @@ Matthew Bolan, Andreas Tsevas, *Universality of Infinite Chess*, arXiv:2602.1427
 - `Universality of Infinite Chess`
 
 关键核查结果是 [DC05] 对 `*2` 的解决和 [N25] 对大棋盘 nimber 问题的继续列示。一般 CGT、其他棋类规则、Amazons、Konane、Dawson’s Chess、无限棋盘的结果只按各自模型使用。检索到的教学讲义和学生综述没有被用作“当前开放”的唯一证据。
+
+## 6. 单封堵列定向新颖性核查
+
+日期：2026-10-29。对象是 [E02] 模型中的
+
+`F(a,b)=ε(0^a10^b)`，其中 `a,b≥0`，
+
+以及边界子族 `ε(10^n)`。这里的 `1` 是 stopped initial file；不能与普通棋局中任意一列兵被阻塞，或 Dawson’s Chess 中移除棋格的缺口混同。
+
+### 6.1 已有结果与本次检索的关系
+
+**[E02] Theorem 3 已经给出这个族所需的一般算法递推。** 因此，重新计算有限表、重述一般递推的单 `1` 特例，都不能单独作为新颖性依据。候选新增内容须是此前未给出的统一闭式、完整参数分类、统一上界，或带明确阈值和周期的双参数定理。
+
+重新检查 [E02] §§5–6，pp.71–78：`ε(1000)=2` 是已有实例；§6.3 的一般计算及周期阻塞试验也已包含大量单封堵字。该节未陈述 `F(a,b)` 全体参数的闭式或完整周期分类。作者没有一般闭式的陈述不能替代对后续文献的核查。
+
+### 6.2 Mäser 与 LNS 文献检查
+
+**[M02]** Fabian Mäser, *Global Threats in Combinatorial Games: A Computation Model with Applications to Chess Endgames*, in *More Games of No Chance*, MSRI Publications **42** (2002), pp.137–149。
+
+- [正式全文](https://library.slmath.org/books/Book42/files/maeser.pdf)
+- 已检查正文 §§1–5 及参考文献：§§2–3，pp.138–144 是 global threats 模型和截止搜索；§4，pp.144–148 是棋局应用；§5，pp.148–149 是总结。
+- 该文提供一般评值办法和具体兵结构实例，没有给出本次目标单封堵字的参数公式。全文文本检索 `Dawson`、`stopped`、`period` 均未命中。这个否定记录仅针对可检索正文及所读章节。
+- 参考文献列出其博士论文 *Divide and Conquer in Game Tree Search: Algorithms, Software and Case Studies*, ETH Zürich，2001，No.14149。该书目信息也见 [ETH 导师组原始目录](https://www.jn.ethz.ch/theses.html)。**本次尚未取得博士论文全文，不能声称已经排除其中存在相关分类。**
+
+对 LNS 的检查分为以下范围：
+
+| 文献 | 已检查范围 | 本次能支持的判断 |
+|---|---|---|
+| [LNS21] | 摘要、§1、主要定理说明及全文关键词 `Elkies`、`Dawson` | 提供 affine impartial 理论；上述两个关键词未命中，没有识别到单 stopped-file 分类。不是对全部潜在推论的排除。 |
+| [LNS25] | 摘要、开篇棋局动机及全文关键词 `Elkies`、`stopped`、`pawn` | `Elkies`、`stopped` 未命中；`pawn` 命中开篇棋局说明。未识别到目标族公式；一般比较定理能否间接简化本问题仍须数学检查。 |
+| LNS 2024，EJC #P4.65 | 摘要、引言及 [E02] 引用处 | 研究对象是 Christmas Lights’ Fixture；引言把 [E02] 列作 entailing 的早期应用，没有在该处陈述目标族分类。 |
+
+### 6.3 定向检索式与结果范围
+
+以下为本轮实际使用的关键词组合；引号属于搜索式。相关命中以原论文全文为准，其他命中未用于论证新颖性。
+
+- `"chess" "stopped" "single" Elkies`
+- `"Elkies" "one" "stopped file"`
+- `"single" "stopped file" nimbers`
+- `"single stopped" chess`
+- `"Elkies" "stopped files"`
+- `"Elkies" "stopped" "recurrence" pawns`
+- `"Higher Nimbers" "single"`
+- `"Higher Nimbers" "stopped"`
+- `"pawns game" "stopped"`
+- `"Dawson chess" "blocked column"`
+- `"Dawson" "one blocked"`
+- `"Dawson" "single defect"`
+- `"Dawson" "single-defect"`
+- `"modified" "Dawson’s Chess" "Elkies"`
+- `"Dawson" "entailing" "periodic"`
+- `"chess" "nimber" "one" "blocked"`
+- `"Elkies" "epsilon" "chess" nimbers`
+- `"chess" "10^n" nimber`
+- `"Elkies" "finite defects"`
+- `"maeser" "Dawson" game`
+- `"chess" "stopped files" "Larsson"`
+- `"Divide and conquer in game tree search" "14149"`
+
+与 stopped files 精确匹配的主要命中仍是 [E02] 的不同托管副本；没有获得可核实的后续论文，专门陈述 `ε(0^a10^b)` 的全体参数公式。宽泛的 blocked-column、Dawson、epsilon 搜索噪声很大，不能据此认定相应术语下没有其他成果。`ε(10^n)` 等公式也可能无法被网页索引可靠检出。
+
+### 6.4 暂定结论
+
+**本次未发现目标分类已经发表，尚不能认定新颖。** 已有的一般递推 [E02] 是明确先行结果；[M02] 的学位论文全文、完整引用链、相关未发表笔记以及任意新公式是否只是已知定理的直接推论，仍是核查缺口。若证明得到统一公式，应先与 [E02] 的边界递推逐项比较，并在投稿或提出创新声明前补做作者文献和引用链核查。
