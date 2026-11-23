@@ -1,0 +1,11 @@
+cohort,extension,roots,unique,leaf_occurrences,distinct_per_root_sum,possible,singleton,max_minimum,silent_bulk,sharing_changes_min,eligible_but_impossible,wdl_improved,wdl_equal,wdl_worsened
+played,king,420,344,707244,349299,58,49,5,18,3,280,4,50,3
+played,pawn,420,344,707244,349299,25,18,6,5,1,282,1,21,3
+played,both,420,344,707244,349299,85,64,9,26,4,255,4,72,8
+played,clip_pair,420,344,707244,349299,7,6,3,1,,284,0,7,0
+played,clip_permuted,420,344,707244,349299,10,10,1,1,,281,0,10,0
+random,king,420,357,765476,369672,49,31,5,12,0,285,1,46,1
+random,pawn,420,357,765476,369672,16,14,7,2,0,306,0,16,0
+random,both,420,357,765476,369672,65,44,7,16,0,279,1,61,2
+random,clip_pair,420,357,765476,369672,5,5,1,1,,332,0,5,0
+random,clip_permuted,420,357,765476,369672,8,7,4,1,,329,0,7,0

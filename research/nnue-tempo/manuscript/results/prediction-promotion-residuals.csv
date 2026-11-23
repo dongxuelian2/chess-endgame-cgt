@@ -1,0 +1,15 @@
+white,condition,strict_errors
+2,capture_term_differs,50
+2,promotion_deletion_preserves_order,64
+2,straight_deletion_erases_order,11
+3,capture_term_differs,27
+3,promotion_deletion_preserves_order,173
+3,straight_deletion_erases_order,13
+4,capture_deletion_erases_order,39
+4,capture_term_differs,82
+4,promotion_deletion_preserves_order,37
+4,straight_deletion_erases_order,67
+5,capture_deletion_erases_order,69
+5,capture_term_differs,637
+5,promotion_deletion_preserves_order,26
+5,straight_deletion_erases_order,159

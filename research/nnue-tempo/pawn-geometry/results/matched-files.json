@@ -1,0 +1,631 @@
+[
+ {
+  "material": "KRvKP",
+  "design": "double",
+  "attempted": 500,
+  "n": 500,
+  "wdl_effect_mean": 2.942,
+  "wdl_matched_rate": 0.999,
+  "wdl_matched_interval": [
+   0.997036798015486,
+   1.000963201984514
+  ],
+  "wdl_real_positive": 0.997,
+  "wdl_sham_positive": 0.401,
+  "native_effect_mean": 237.794,
+  "native_matched_rate": 0.705,
+  "native_matched_interval": [
+   0.6616704604915343,
+   0.7483295395084656
+  ],
+  "native_real_positive": 0.632,
+  "native_sham_positive": 0.489,
+  "classical_effect_mean": -4.422,
+  "classical_matched_rate": 0.509,
+  "classical_matched_interval": [
+   0.4981347456666098,
+   0.5198652543333903
+  ],
+  "classical_real_positive": 0.478,
+  "classical_sham_positive": 0.471,
+  "probe_matched_rate": 0.922,
+  "probe_matched_interval": [
+   0.899209055392552,
+   0.9447909446074481
+  ],
+  "probe_real_positive": 0.988,
+  "probe_sham_positive": 0.756
+ },
+ {
+  "material": "KRvKP",
+  "design": "single",
+  "attempted": 500,
+  "n": 484,
+  "wdl_effect_mean": 1.384297520661157,
+  "wdl_matched_rate": 0.9380165289256198,
+  "wdl_matched_interval": [
+   0.9201404472313438,
+   0.9558926106198958
+  ],
+  "wdl_real_positive": 0.9194214876033058,
+  "wdl_sham_positive": 0.4628099173553719,
+  "native_effect_mean": 125.34917355371901,
+  "native_matched_rate": 0.6002066115702479,
+  "native_matched_interval": [
+   0.556308929145051,
+   0.6441042939954448
+  ],
+  "native_real_positive": 0.5640495867768595,
+  "native_sham_positive": 0.47520661157024796,
+  "classical_effect_mean": -11.644628099173554,
+  "classical_matched_rate": 0.5051652892561983,
+  "classical_matched_interval": [
+   0.491270607189874,
+   0.5190599713225227
+  ],
+  "classical_real_positive": 0.48140495867768596,
+  "classical_sham_positive": 0.4824380165289256,
+  "probe_matched_rate": 0.7727272727272727,
+  "probe_matched_interval": [
+   0.7371222967206573,
+   0.8083322487338881
+  ],
+  "probe_real_positive": 0.9008264462809917,
+  "probe_sham_positive": 0.6033057851239669
+ },
+ {
+  "material": "KRvKP",
+  "design": "promotion",
+  "attempted": 500,
+  "n": 267,
+  "wdl_effect_mean": 1.4382022471910112,
+  "wdl_matched_rate": 0.9344569288389513,
+  "wdl_matched_interval": [
+   0.9118204096526523,
+   0.9570934480252502
+  ],
+  "wdl_real_positive": 0.9363295880149812,
+  "wdl_sham_positive": 0.4943820224719101,
+  "native_effect_mean": 1394.0711610486892,
+  "native_matched_rate": 0.9438202247191011,
+  "native_matched_interval": [
+   0.9172288323812117,
+   0.9704116170569905
+  ],
+  "native_real_positive": 0.9438202247191011,
+  "native_sham_positive": 0.46441947565543074,
+  "classical_effect_mean": 4.299625468164794,
+  "classical_matched_rate": 0.5093632958801498,
+  "classical_matched_interval": [
+   0.49448573101657983,
+   0.5242408607437198
+  ],
+  "classical_real_positive": 0.5224719101123596,
+  "classical_sham_positive": 0.5243445692883895,
+  "probe_matched_rate": 0.40074906367041196,
+  "probe_matched_interval": [
+   0.3422581896873072,
+   0.4592399376535167
+  ],
+  "probe_real_positive": 0.4157303370786517,
+  "probe_sham_positive": 0.5393258426966292
+ },
+ {
+  "material": "KQvKP",
+  "design": "double",
+  "attempted": 500,
+  "n": 495,
+  "wdl_effect_mean": 3.519191919191919,
+  "wdl_matched_rate": 1.0,
+  "wdl_matched_interval": [
+   1.0,
+   1.0
+  ],
+  "wdl_real_positive": 1.0,
+  "wdl_sham_positive": 0.38686868686868686,
+  "native_effect_mean": 577.3616161616162,
+  "native_matched_rate": 0.694949494949495,
+  "native_matched_interval": [
+   0.6568415509413924,
+   0.7330574389575976
+  ],
+  "native_real_positive": 0.7262626262626263,
+  "native_sham_positive": 0.49696969696969695,
+  "classical_effect_mean": 0.0,
+  "classical_matched_rate": 0.5,
+  "classical_matched_interval": [
+   0.5,
+   0.5
+  ],
+  "classical_real_positive": 0.5,
+  "classical_sham_positive": 0.5,
+  "probe_matched_rate": 0.703030303030303,
+  "probe_matched_interval": [
+   0.6599650783704496,
+   0.7460955276901564
+  ],
+  "probe_real_positive": 0.7575757575757576,
+  "probe_sham_positive": 0.46464646464646464
+ },
+ {
+  "material": "KQvKP",
+  "design": "single",
+  "attempted": 500,
+  "n": 490,
+  "wdl_effect_mean": 1.7142857142857142,
+  "wdl_matched_rate": 1.0,
+  "wdl_matched_interval": [
+   1.0,
+   1.0
+  ],
+  "wdl_real_positive": 1.0,
+  "wdl_sham_positive": 0.4561224489795918,
+  "native_effect_mean": 262.2469387755102,
+  "native_matched_rate": 0.6530612244897959,
+  "native_matched_interval": [
+   0.6103769868816302,
+   0.6957454620979615
+  ],
+  "native_real_positive": 0.6744897959183673,
+  "native_sham_positive": 0.42448979591836733,
+  "classical_effect_mean": 0.0,
+  "classical_matched_rate": 0.5,
+  "classical_matched_interval": [
+   0.5,
+   0.5
+  ],
+  "classical_real_positive": 0.5,
+  "classical_sham_positive": 0.5,
+  "probe_matched_rate": 0.6571428571428571,
+  "probe_matched_interval": [
+   0.6164756324804548,
+   0.6978100818052595
+  ],
+  "probe_real_positive": 0.6795918367346939,
+  "probe_sham_positive": 0.4897959183673469
+ },
+ {
+  "material": "KQvKP",
+  "design": "promotion",
+  "attempted": 500,
+  "n": 308,
+  "wdl_effect_mean": 0.7662337662337663,
+  "wdl_matched_rate": 0.8766233766233766,
+  "wdl_matched_interval": [
+   0.8498084194675499,
+   0.9034383337792034
+  ],
+  "wdl_real_positive": 0.8896103896103896,
+  "wdl_sham_positive": 0.5097402597402597,
+  "native_effect_mean": 1071.094155844156,
+  "native_matched_rate": 0.8766233766233766,
+  "native_matched_interval": [
+   0.8389295062309623,
+   0.914317247015791
+  ],
+  "native_real_positive": 0.9285714285714286,
+  "native_sham_positive": 0.5081168831168831,
+  "classical_effect_mean": 0.0,
+  "classical_matched_rate": 0.5,
+  "classical_matched_interval": [
+   0.5,
+   0.5
+  ],
+  "classical_real_positive": 0.5,
+  "classical_sham_positive": 0.5,
+  "probe_matched_rate": 0.4675324675324675,
+  "probe_matched_interval": [
+   0.40496796791396616,
+   0.5300969671509689
+  ],
+  "probe_real_positive": 0.45454545454545453,
+  "probe_sham_positive": 0.461038961038961
+ },
+ {
+  "material": "KBvKP",
+  "design": "single",
+  "attempted": 500,
+  "n": 499,
+  "wdl_effect_mean": 0.6733466933867736,
+  "wdl_matched_rate": 0.7965931863727455,
+  "wdl_matched_interval": [
+   0.774237613331277,
+   0.8189487594142139
+  ],
+  "wdl_real_positive": 0.8056112224448898,
+  "wdl_sham_positive": 0.5020040080160321,
+  "native_effect_mean": 53.43887775551102,
+  "native_matched_rate": 0.5881763527054108,
+  "native_matched_interval": [
+   0.5461457260989123,
+   0.6302069793119093
+  ],
+  "native_real_positive": 0.6482965931863728,
+  "native_sham_positive": 0.5250501002004008,
+  "classical_effect_mean": 4.168336673346693,
+  "classical_matched_rate": 0.5040080160320641,
+  "classical_matched_interval": [
+   0.487770242292734,
+   0.5202457897713942
+  ],
+  "classical_real_positive": 0.5190380761523046,
+  "classical_sham_positive": 0.5170340681362725,
+  "probe_matched_rate": 0.6492985971943888,
+  "probe_matched_interval": [
+   0.6075209203714784,
+   0.6910762740172991
+  ],
+  "probe_real_positive": 0.685370741482966,
+  "probe_sham_positive": 0.4969939879759519
+ },
+ {
+  "material": "KBvKP",
+  "design": "promotion",
+  "attempted": 500,
+  "n": 499,
+  "wdl_effect_mean": 1.1743486973947896,
+  "wdl_matched_rate": 0.906813627254509,
+  "wdl_matched_interval": [
+   0.8882451226683904,
+   0.9253821318406276
+  ],
+  "wdl_real_positive": 0.9318637274549099,
+  "wdl_sham_positive": 0.34468937875751504,
+  "native_effect_mean": 867.2885771543087,
+  "native_matched_rate": 0.9759519038076152,
+  "native_matched_interval": [
+   0.9628785189441905,
+   0.9890252886710399
+  ],
+  "native_real_positive": 0.9939879759519038,
+  "native_sham_positive": 0.3166332665330661,
+  "classical_effect_mean": 110.14028056112224,
+  "classical_matched_rate": 0.8627254509018036,
+  "classical_matched_interval": [
+   0.8369949744344544,
+   0.8884559273691529
+  ],
+  "classical_real_positive": 0.9158316633266533,
+  "classical_sham_positive": 0.6332665330661322,
+  "probe_matched_rate": 0.43286573146292584,
+  "probe_matched_interval": [
+   0.39076164771798044,
+   0.47496981520787124
+  ],
+  "probe_real_positive": 0.4188376753507014,
+  "probe_sham_positive": 0.5230460921843687
+ },
+ {
+  "material": "KNvKP",
+  "design": "single",
+  "attempted": 500,
+  "n": 500,
+  "wdl_effect_mean": 0.614,
+  "wdl_matched_rate": 0.762,
+  "wdl_matched_interval": [
+   0.7388936903807417,
+   0.7851063096192583
+  ],
+  "wdl_real_positive": 0.762,
+  "wdl_sham_positive": 0.476,
+  "native_effect_mean": 18.08,
+  "native_matched_rate": 0.635,
+  "native_matched_interval": [
+   0.5998599613012083,
+   0.6701400386987917
+  ],
+  "native_real_positive": 0.661,
+  "native_sham_positive": 0.453,
+  "classical_effect_mean": 4.896,
+  "classical_matched_rate": 0.523,
+  "classical_matched_interval": [
+   0.5028047433600613,
+   0.5431952566399387
+  ],
+  "classical_real_positive": 0.536,
+  "classical_sham_positive": 0.504,
+  "probe_matched_rate": 0.598,
+  "probe_matched_interval": [
+   0.5564518725243559,
+   0.639548127475644
+  ],
+  "probe_real_positive": 0.652,
+  "probe_sham_positive": 0.534
+ },
+ {
+  "material": "KNvKP",
+  "design": "promotion",
+  "attempted": 500,
+  "n": 488,
+  "wdl_effect_mean": 0.6659836065573771,
+  "wdl_matched_rate": 0.7756147540983607,
+  "wdl_matched_interval": [
+   0.7494507232870911,
+   0.8017787849096303
+  ],
+  "wdl_real_positive": 0.6987704918032787,
+  "wdl_sham_positive": 0.36577868852459017,
+  "native_effect_mean": 801.4016393442623,
+  "native_matched_rate": 0.9323770491803278,
+  "native_matched_interval": [
+   0.9093587290388047,
+   0.955395369321851
+  ],
+  "native_real_positive": 0.951844262295082,
+  "native_sham_positive": 0.3524590163934426,
+  "classical_effect_mean": 136.0983606557377,
+  "classical_matched_rate": 0.8965163934426229,
+  "classical_matched_interval": [
+   0.8710724989161209,
+   0.9219602879691249
+  ],
+  "classical_real_positive": 0.9538934426229508,
+  "classical_sham_positive": 0.5348360655737705,
+  "probe_matched_rate": 0.3770491803278688,
+  "probe_matched_interval": [
+   0.3352648913603913,
+   0.4188334692953464
+  ],
+  "probe_real_positive": 0.36885245901639346,
+  "probe_sham_positive": 0.4959016393442623
+ },
+ {
+  "material": "KRPvKP",
+  "design": "double",
+  "attempted": 500,
+  "n": 500,
+  "wdl_effect_mean": 2.006,
+  "wdl_matched_rate": 0.871,
+  "wdl_matched_interval": [
+   0.8525618457561501,
+   0.8894381542438499
+  ],
+  "wdl_real_positive": 0.865,
+  "wdl_sham_positive": 0.411,
+  "native_effect_mean": 179.518,
+  "native_matched_rate": 0.764,
+  "native_matched_interval": [
+   0.7250073958356203,
+   0.8029926041643797
+  ],
+  "native_real_positive": 0.659,
+  "native_sham_positive": 0.484,
+  "classical_effect_mean": 7.264,
+  "classical_matched_rate": 0.507,
+  "classical_matched_interval": [
+   0.4613733977762972,
+   0.5526266022237027
+  ],
+  "classical_real_positive": 0.076,
+  "classical_sham_positive": 0.22,
+  "probe_matched_rate": 0.836,
+  "probe_matched_interval": [
+   0.8026264702927605,
+   0.8693735297072395
+  ],
+  "probe_real_positive": 0.922,
+  "probe_sham_positive": 0.684
+ },
+ {
+  "material": "KRPvKP",
+  "design": "single",
+  "attempted": 500,
+  "n": 487,
+  "wdl_effect_mean": 1.0246406570841888,
+  "wdl_matched_rate": 0.8141683778234087,
+  "wdl_matched_interval": [
+   0.7940216013721535,
+   0.8343151542746639
+  ],
+  "wdl_real_positive": 0.7823408624229979,
+  "wdl_sham_positive": 0.446611909650924,
+  "native_effect_mean": 91.19712525667352,
+  "native_matched_rate": 0.6848049281314168,
+  "native_matched_interval": [
+   0.6469981765290137,
+   0.7226116797338199
+  ],
+  "native_real_positive": 0.6119096509240246,
+  "native_sham_positive": 0.41170431211498976,
+  "classical_effect_mean": -3.482546201232033,
+  "classical_matched_rate": 0.4260780287474333,
+  "classical_matched_interval": [
+   0.3892129256386969,
+   0.46294313185616964
+  ],
+  "classical_real_positive": 0.19507186858316222,
+  "classical_sham_positive": 0.35728952772073924,
+  "probe_matched_rate": 0.6570841889117043,
+  "probe_matched_interval": [
+   0.6132458239623487,
+   0.7009225538610598
+  ],
+  "probe_real_positive": 0.7823408624229979,
+  "probe_sham_positive": 0.5790554414784395
+ },
+ {
+  "material": "KRPvKP",
+  "design": "promotion",
+  "attempted": 500,
+  "n": 252,
+  "wdl_effect_mean": 1.5238095238095237,
+  "wdl_matched_rate": 0.9126984126984127,
+  "wdl_matched_interval": [
+   0.8847442144713952,
+   0.9406526109254302
+  ],
+  "wdl_real_positive": 0.9226190476190477,
+  "wdl_sham_positive": 0.49007936507936506,
+  "native_effect_mean": 1374.3174603174602,
+  "native_matched_rate": 0.9761904761904762,
+  "native_matched_interval": [
+   0.9579527018550753,
+   0.994428250525877
+  ],
+  "native_real_positive": 1.0,
+  "native_sham_positive": 0.5238095238095238,
+  "classical_effect_mean": 216.44444444444446,
+  "classical_matched_rate": 1.0,
+  "classical_matched_interval": [
+   1.0,
+   1.0
+  ],
+  "classical_real_positive": 1.0,
+  "classical_sham_positive": 0.2003968253968254,
+  "probe_matched_rate": 0.5238095238095238,
+  "probe_matched_interval": [
+   0.4648120728668242,
+   0.5828069747522234
+  ],
+  "probe_real_positive": 0.4880952380952381,
+  "probe_sham_positive": 0.45634920634920634
+ },
+ {
+  "material": "KBPvKP",
+  "design": "single",
+  "attempted": 500,
+  "n": 500,
+  "wdl_effect_mean": 0.796,
+  "wdl_matched_rate": 0.759,
+  "wdl_matched_interval": [
+   0.7360093890135647,
+   0.7819906109864353
+  ],
+  "wdl_real_positive": 0.765,
+  "wdl_sham_positive": 0.497,
+  "native_effect_mean": 264.396,
+  "native_matched_rate": 0.804,
+  "native_matched_interval": [
+   0.7675565195862745,
+   0.8404434804137256
+  ],
+  "native_real_positive": 0.847,
+  "native_sham_positive": 0.494,
+  "classical_effect_mean": 24.512,
+  "classical_matched_rate": 0.625,
+  "classical_matched_interval": [
+   0.5856142525778677,
+   0.6643857474221323
+  ],
+  "classical_real_positive": 0.566,
+  "classical_sham_positive": 0.448,
+  "probe_matched_rate": 0.642,
+  "probe_matched_interval": [
+   0.6049051067738105,
+   0.6790948932261895
+  ],
+  "probe_real_positive": 0.642,
+  "probe_sham_positive": 0.484
+ },
+ {
+  "material": "KBPvKP",
+  "design": "promotion",
+  "attempted": 500,
+  "n": 494,
+  "wdl_effect_mean": 1.94331983805668,
+  "wdl_matched_rate": 0.9261133603238867,
+  "wdl_matched_interval": [
+   0.9094257370490384,
+   0.942800983598735
+  ],
+  "wdl_real_positive": 0.9352226720647774,
+  "wdl_sham_positive": 0.3309716599190283,
+  "native_effect_mean": 1548.4008097165993,
+  "native_matched_rate": 0.9979757085020243,
+  "native_matched_interval": [
+   0.9940093867652443,
+   1.0019420302388042
+  ],
+  "native_real_positive": 1.0,
+  "native_sham_positive": 0.29048582995951416,
+  "classical_effect_mean": 301.73279352226723,
+  "classical_matched_rate": 0.9868421052631579,
+  "classical_matched_interval": [
+   0.9776163363867634,
+   0.9960678741395523
+  ],
+  "classical_real_positive": 0.9949392712550608,
+  "classical_sham_positive": 0.1508097165991903,
+  "probe_matched_rate": 0.4574898785425101,
+  "probe_matched_interval": [
+   0.41160198077918086,
+   0.5033777763058394
+  ],
+  "probe_real_positive": 0.46153846153846156,
+  "probe_sham_positive": 0.5323886639676113
+ },
+ {
+  "material": "KNPvKP",
+  "design": "single",
+  "attempted": 500,
+  "n": 497,
+  "wdl_effect_mean": 0.7263581488933601,
+  "wdl_matched_rate": 0.721327967806841,
+  "wdl_matched_interval": [
+   0.6937398557009633,
+   0.7489160799127188
+  ],
+  "wdl_real_positive": 0.7253521126760564,
+  "wdl_sham_positive": 0.47484909456740443,
+  "native_effect_mean": 283.0221327967807,
+  "native_matched_rate": 0.8148893360160966,
+  "native_matched_interval": [
+   0.7797198434989427,
+   0.8500588285332504
+  ],
+  "native_real_positive": 0.829979879275654,
+  "native_sham_positive": 0.3963782696177062,
+  "classical_effect_mean": 74.59154929577464,
+  "classical_matched_rate": 0.7595573440643864,
+  "classical_matched_interval": [
+   0.7212643205755725,
+   0.7978503675532002
+  ],
+  "classical_real_positive": 0.783702213279678,
+  "classical_sham_positive": 0.3631790744466801,
+  "probe_matched_rate": 0.5734406438631791,
+  "probe_matched_interval": [
+   0.5326269706210242,
+   0.614254317105334
+  ],
+  "probe_real_positive": 0.6317907444668008,
+  "probe_sham_positive": 0.4708249496981891
+ },
+ {
+  "material": "KNPvKP",
+  "design": "promotion",
+  "attempted": 500,
+  "n": 480,
+  "wdl_effect_mean": 1.0645833333333334,
+  "wdl_matched_rate": 0.7989583333333333,
+  "wdl_matched_interval": [
+   0.7655159819893369,
+   0.8324006846773297
+  ],
+  "wdl_real_positive": 0.7416666666666667,
+  "wdl_sham_positive": 0.37604166666666666,
+  "native_effect_mean": 1204.8895833333333,
+  "native_matched_rate": 0.9645833333333333,
+  "native_matched_interval": [
+   0.9466033823167973,
+   0.9825632843498694
+  ],
+  "native_real_positive": 0.9916666666666667,
+  "native_sham_positive": 0.3020833333333333,
+  "classical_effect_mean": 283.53333333333336,
+  "classical_matched_rate": 0.9541666666666667,
+  "classical_matched_interval": [
+   0.9355420628055078,
+   0.9727912705278257
+  ],
+  "classical_real_positive": 0.990625,
+  "classical_sham_positive": 0.24270833333333333,
+  "probe_matched_rate": 0.4354166666666667,
+  "probe_matched_interval": [
+   0.3907064387146386,
+   0.48012689461869473
+  ],
+  "probe_real_positive": 0.45416666666666666,
+  "probe_sham_positive": 0.5104166666666666
+ }
+]

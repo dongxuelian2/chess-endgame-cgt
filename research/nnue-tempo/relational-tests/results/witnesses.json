@@ -1,0 +1,1497 @@
+[
+ {
+  "fen": "8/8/8/8/5B2/2K5/4k1p1/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "both",
+  "leader": "f4h2",
+  "challenger": "f4d6",
+  "reply": "e2f1",
+  "original_values": [
+   -121,
+   -621
+  ],
+  "witness_values": [
+   -636,
+   -621
+  ],
+  "rows": [
+   [
+    0,
+    -621,
+    -138,
+    null
+   ],
+   [
+    1,
+    -621,
+    -235,
+    null
+   ],
+   [
+    2,
+    -621,
+    -111,
+    null
+   ],
+   [
+    3,
+    -621,
+    -636,
+    9
+   ],
+   [
+    4,
+    -621,
+    -135,
+    null
+   ],
+   [
+    5,
+    -621,
+    -99,
+    null
+   ],
+   [
+    6,
+    -621,
+    0,
+    null
+   ],
+   [
+    7,
+    -621,
+    57,
+    null
+   ],
+   [
+    8,
+    -621,
+    0,
+    null
+   ],
+   [
+    9,
+    -621,
+    18,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "8/8/8/8/8/2K5/6p1/5kB1 b - - 3 2",
+    "before": -146,
+    "after": -1468
+   },
+   {
+    "fen": "8/8/8/8/3K4/8/6pB/5k2 b - - 3 2",
+    "before": -123,
+    "after": -1003
+   },
+   {
+    "fen": "8/8/8/8/2K5/8/6pB/5k2 b - - 3 2",
+    "before": -141,
+    "after": -890
+   },
+   {
+    "fen": "8/8/8/8/1K6/8/6pB/5k2 b - - 3 2",
+    "before": -137,
+    "after": -907
+   },
+   {
+    "fen": "8/8/8/8/8/3K4/6pB/5k2 b - - 3 2",
+    "before": -126,
+    "after": -834
+   },
+   {
+    "fen": "8/8/8/8/8/1K6/6pB/5k2 b - - 3 2",
+    "before": -121,
+    "after": -941
+   },
+   {
+    "fen": "8/8/8/8/8/8/3K2pB/5k2 b - - 3 2",
+    "before": -151,
+    "after": -636
+   },
+   {
+    "fen": "8/8/8/8/8/8/2K3pB/5k2 b - - 3 2",
+    "before": -142,
+    "after": -1118
+   },
+   {
+    "fen": "8/8/8/8/8/8/1K4pB/5k2 b - - 3 2",
+    "before": -145,
+    "after": -889
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/8/5B2/pk5K/8/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "pawn",
+  "leader": "f4e5",
+  "challenger": "f4d6",
+  "reply": "a3a2",
+  "original_values": [
+   -127,
+   -131
+  ],
+  "witness_values": [
+   -134,
+   -131
+  ],
+  "rows": [
+   [
+    0,
+    -131,
+    -124,
+    null
+   ],
+   [
+    1,
+    -131,
+    -122,
+    null
+   ],
+   [
+    2,
+    -131,
+    -109,
+    null
+   ],
+   [
+    3,
+    -131,
+    -103,
+    null
+   ],
+   [
+    4,
+    -131,
+    -127,
+    null
+   ],
+   [
+    5,
+    -131,
+    -134,
+    6
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "8/6B1/8/8/8/1k5K/p7/8 b - - 1 2",
+    "before": -91,
+    "after": -787
+   },
+   {
+    "fen": "8/8/5B2/8/8/1k5K/p7/8 b - - 1 2",
+    "before": -122,
+    "after": -823
+   },
+   {
+    "fen": "7B/8/8/8/8/1k5K/p7/8 b - - 1 2",
+    "before": -114,
+    "after": -1232
+   },
+   {
+    "fen": "8/8/8/4B3/7K/1k6/p7/8 b - - 1 2",
+    "before": -118,
+    "after": -767
+   },
+   {
+    "fen": "8/8/8/4B3/8/1k6/p6K/8 b - - 1 2",
+    "before": -113,
+    "after": -567
+   },
+   {
+    "fen": "8/8/8/4B3/8/1k6/p5K1/8 b - - 1 2",
+    "before": -131,
+    "after": -714
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/8/5B2/pk5K/8/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "both",
+  "leader": "f4e5",
+  "challenger": "f4d6",
+  "reply": "a3a2",
+  "original_values": [
+   -127,
+   -131
+  ],
+  "witness_values": [
+   -134,
+   -131
+  ],
+  "rows": [
+   [
+    0,
+    -131,
+    -124,
+    null
+   ],
+   [
+    1,
+    -131,
+    -122,
+    null
+   ],
+   [
+    2,
+    -131,
+    -109,
+    null
+   ],
+   [
+    3,
+    -131,
+    -103,
+    null
+   ],
+   [
+    4,
+    -131,
+    -127,
+    null
+   ],
+   [
+    5,
+    -131,
+    -134,
+    6
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "8/6B1/8/8/8/1k5K/p7/8 b - - 1 2",
+    "before": -91,
+    "after": -787
+   },
+   {
+    "fen": "8/8/5B2/8/8/1k5K/p7/8 b - - 1 2",
+    "before": -122,
+    "after": -823
+   },
+   {
+    "fen": "7B/8/8/8/8/1k5K/p7/8 b - - 1 2",
+    "before": -114,
+    "after": -1232
+   },
+   {
+    "fen": "8/8/8/4B3/7K/1k6/p7/8 b - - 1 2",
+    "before": -118,
+    "after": -767
+   },
+   {
+    "fen": "8/8/8/4B3/8/1k6/p6K/8 b - - 1 2",
+    "before": -113,
+    "after": -567
+   },
+   {
+    "fen": "8/8/8/4B3/8/1k6/p5K1/8 b - - 1 2",
+    "before": -131,
+    "after": -714
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/8/6K1/4p3/2k2N2/8 w - - 0 1",
+  "cohort": "random",
+  "extension": "both",
+  "leader": "g4f3",
+  "challenger": "g4g3",
+  "reply": "c2d2",
+  "original_values": [
+   -124,
+   -147
+  ],
+  "witness_values": [
+   -203,
+   -147
+  ],
+  "rows": [
+   [
+    0,
+    -147,
+    0,
+    null
+   ],
+   [
+    1,
+    -147,
+    0,
+    null
+   ],
+   [
+    2,
+    -147,
+    -203,
+    6
+   ],
+   [
+    3,
+    -147,
+    0,
+    null
+   ],
+   [
+    4,
+    -147,
+    0,
+    null
+   ],
+   [
+    5,
+    -147,
+    0,
+    null
+   ],
+   [
+    6,
+    -840,
+    0,
+    null
+   ],
+   [
+    7,
+    -147,
+    0,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "8/8/8/8/6K1/4p3/3k1N2/8 b - - 3 2",
+    "before": -124,
+    "after": -2040
+   },
+   {
+    "fen": "8/8/8/8/5K2/4p3/3k1N2/8 b - - 3 2",
+    "before": -130,
+    "after": -2018
+   },
+   {
+    "fen": "8/8/8/8/4K3/4p3/3k1N2/8 b - - 3 2",
+    "before": -129,
+    "after": -2040
+   },
+   {
+    "fen": "8/8/8/8/8/4p1K1/3k1N2/8 b - - 3 2",
+    "before": -130,
+    "after": -1038
+   },
+   {
+    "fen": "8/8/8/8/8/4p3/3k1NK1/8 b - - 3 2",
+    "before": -136,
+    "after": -717
+   },
+   {
+    "fen": "8/8/8/8/8/3NpK2/3k4/8 b - - 3 2",
+    "before": -138,
+    "after": -2032
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/6N1/6kp/8/1K6/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "king",
+  "leader": "g5e4",
+  "challenger": "g5e6",
+  "reply": "g4f3",
+  "original_values": [
+   -372,
+   -707
+  ],
+  "witness_values": [
+   -719,
+   -707
+  ],
+  "rows": [
+   [
+    0,
+    -707,
+    -126,
+    null
+   ],
+   [
+    1,
+    -707,
+    -137,
+    null
+   ],
+   [
+    2,
+    -707,
+    -158,
+    null
+   ],
+   [
+    3,
+    -707,
+    -103,
+    null
+   ],
+   [
+    4,
+    -707,
+    -725,
+    5
+   ],
+   [
+    5,
+    -707,
+    -586,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "8/8/8/8/7p/5kN1/1K6/8 b - - 3 2",
+    "before": -526,
+    "after": -2013
+   },
+   {
+    "fen": "8/8/8/8/4N2p/2K2k2/8/8 b - - 3 2",
+    "before": -514,
+    "after": -1887
+   },
+   {
+    "fen": "8/8/8/8/4N2p/1K3k2/8/8 b - - 3 2",
+    "before": -559,
+    "after": -1944
+   },
+   {
+    "fen": "8/8/8/8/4N2p/5k2/2K5/8 b - - 3 2",
+    "before": -363,
+    "after": -1899
+   },
+   {
+    "fen": "8/8/8/8/4N2p/5k2/8/2K5 b - - 3 2",
+    "before": -637,
+    "after": -1913
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/6N1/6kp/8/1K6/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "both",
+  "leader": "g5e4",
+  "challenger": "g5e6",
+  "reply": "g4f3",
+  "original_values": [
+   -372,
+   -707
+  ],
+  "witness_values": [
+   -719,
+   -707
+  ],
+  "rows": [
+   [
+    0,
+    -707,
+    -126,
+    null
+   ],
+   [
+    1,
+    -707,
+    -137,
+    null
+   ],
+   [
+    2,
+    -707,
+    -158,
+    null
+   ],
+   [
+    3,
+    -707,
+    -103,
+    null
+   ],
+   [
+    4,
+    -707,
+    -725,
+    5
+   ],
+   [
+    5,
+    -707,
+    -586,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "8/8/8/8/7p/5kN1/1K6/8 b - - 3 2",
+    "before": -526,
+    "after": -2116
+   },
+   {
+    "fen": "8/8/8/8/4N2p/2K2k2/8/8 b - - 3 2",
+    "before": -514,
+    "after": -1887
+   },
+   {
+    "fen": "8/8/8/8/4N2p/1K3k2/8/8 b - - 3 2",
+    "before": -559,
+    "after": -1944
+   },
+   {
+    "fen": "8/8/8/8/4N2p/5k2/2K5/8 b - - 3 2",
+    "before": -363,
+    "after": -1899
+   },
+   {
+    "fen": "8/8/8/8/4N2p/5k2/8/2K5 b - - 3 2",
+    "before": -637,
+    "after": -1913
+   }
+  ]
+ },
+ {
+  "fen": "3R4/8/8/8/8/1k6/2p2K2/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "both",
+  "leader": "d8c8",
+  "challenger": "d8d3",
+  "reply": "b3b2",
+  "original_values": [
+   594,
+   97
+  ],
+  "witness_values": [
+   39,
+   97
+  ],
+  "rows": [
+   [
+    0,
+    97,
+    1076,
+    null
+   ],
+   [
+    1,
+    97,
+    1206,
+    null
+   ],
+   [
+    2,
+    97,
+    937,
+    null
+   ],
+   [
+    3,
+    97,
+    0,
+    3
+   ],
+   [
+    4,
+    97,
+    683,
+    null
+   ],
+   [
+    5,
+    97,
+    1212,
+    null
+   ],
+   [
+    6,
+    97,
+    1212,
+    null
+   ],
+   [
+    7,
+    97,
+    1212,
+    null
+   ],
+   [
+    8,
+    97,
+    1212,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "8/8/8/8/2R5/8/1kp2K2/8 b - - 3 2",
+    "before": 112,
+    "after": -473
+   },
+   {
+    "fen": "8/8/8/8/8/8/1kR2K2/8 b - - 0 2",
+    "before": 594,
+    "after": 0
+   },
+   {
+    "fen": "2R5/8/8/8/8/8/1kp1K3/8 b - - 3 2",
+    "before": 122,
+    "after": -413
+   }
+  ]
+ },
+ {
+  "fen": "3Q4/1k6/8/K7/8/4p3/8/8 w - - 0 1",
+  "cohort": "random",
+  "extension": "king",
+  "leader": "d8d7",
+  "challenger": "d8b6",
+  "reply": "b7b8",
+  "original_values": [
+   2931,
+   2613
+  ],
+  "witness_values": [
+   2606,
+   2613
+  ],
+  "rows": [
+   [
+    0,
+    2613,
+    2516,
+    3
+   ],
+   [
+    1,
+    2613,
+    2626,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "1k6/1Q6/8/K7/8/4p3/8/8 b - - 3 2",
+    "before": 2677,
+    "after": -1814
+   },
+   {
+    "fen": "1k6/Q7/8/K7/8/4p3/8/8 b - - 3 2",
+    "before": 2931,
+    "after": -1945
+   },
+   {
+    "fen": "1kQ5/8/8/K7/8/4p3/8/8 b - - 3 2",
+    "before": 2687,
+    "after": -1857
+   }
+  ]
+ },
+ {
+  "fen": "5Q2/4K3/6k1/8/8/8/7p/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "both",
+  "leader": "f8f6",
+  "challenger": "f8f7",
+  "reply": "g6h5",
+  "original_values": [
+   2503,
+   2031
+  ],
+  "witness_values": [
+   2010,
+   2031
+  ],
+  "rows": [
+   [
+    0,
+    2031,
+    2399,
+    null
+   ],
+   [
+    1,
+    2031,
+    1486,
+    8
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "8/4K3/2Q5/7k/8/8/7p/8 b - - 3 2",
+    "before": 2032,
+    "after": 263
+   },
+   {
+    "fen": "8/4K3/8/7k/8/8/7p/Q7 b - - 3 2",
+    "before": 2032,
+    "after": 359
+   },
+   {
+    "fen": "8/5K2/5Q2/7k/8/8/7p/8 b - - 3 2",
+    "before": 2182,
+    "after": 1055
+   },
+   {
+    "fen": "8/3K4/5Q2/7k/8/8/7p/8 b - - 3 2",
+    "before": 2036,
+    "after": 1029
+   },
+   {
+    "fen": "8/8/4KQ2/7k/8/8/7p/8 b - - 3 2",
+    "before": 2407,
+    "after": 1000
+   },
+   {
+    "fen": "8/8/3K1Q2/7k/8/8/7p/8 b - - 3 2",
+    "before": 2094,
+    "after": 842
+   },
+   {
+    "fen": "8/4K3/8/7k/7Q/8/7p/8 b - - 3 2",
+    "before": 2503,
+    "after": -2001
+   },
+   {
+    "fen": "8/4K3/8/7k/8/8/7p/5Q2 b - - 3 2",
+    "before": 2312,
+    "after": 2
+   }
+  ]
+ },
+ {
+  "fen": "3k4/8/4R3/7K/8/4p3/8/8 w - - 0 1",
+  "cohort": "random",
+  "extension": "pawn",
+  "leader": "h5g4",
+  "challenger": "e6e3",
+  "reply": "e3e2",
+  "original_values": [
+   1631,
+   1593
+  ],
+  "witness_values": [
+   1480,
+   1593
+  ],
+  "rows": [
+   [
+    0,
+    1593,
+    1698,
+    null
+   ],
+   [
+    1,
+    1593,
+    1631,
+    null
+   ],
+   [
+    2,
+    1593,
+    1733,
+    null
+   ],
+   [
+    3,
+    1593,
+    1453,
+    7
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "3k4/4R3/8/8/6K1/8/4p3/8 b - - 1 2",
+    "before": 1595,
+    "after": -451
+   },
+   {
+    "fen": "3k4/8/8/4R3/6K1/8/4p3/8 b - - 1 2",
+    "before": 1620,
+    "after": -219
+   },
+   {
+    "fen": "3k4/8/8/8/4R1K1/8/4p3/8 b - - 1 2",
+    "before": 1606,
+    "after": -39
+   },
+   {
+    "fen": "3k4/8/4R3/8/7K/8/4p3/8 b - - 1 2",
+    "before": 1714,
+    "after": -153
+   },
+   {
+    "fen": "3k4/8/4R3/8/8/6K1/4p3/8 b - - 1 2",
+    "before": 1683,
+    "after": -55
+   },
+   {
+    "fen": "3k4/8/8/8/6K1/4R3/4p3/8 b - - 1 2",
+    "before": 1636,
+    "after": -40
+   },
+   {
+    "fen": "3k4/8/4R3/8/8/5K2/4p3/8 b - - 1 2",
+    "before": 1749,
+    "after": -100
+   }
+  ]
+ },
+ {
+  "fen": "3k4/8/4R3/7K/8/4p3/8/8 w - - 0 1",
+  "cohort": "random",
+  "extension": "both",
+  "leader": "h5g4",
+  "challenger": "e6e3",
+  "reply": "e3e2",
+  "original_values": [
+   1631,
+   1593
+  ],
+  "witness_values": [
+   1480,
+   1593
+  ],
+  "rows": [
+   [
+    0,
+    1593,
+    1698,
+    null
+   ],
+   [
+    1,
+    1593,
+    1631,
+    null
+   ],
+   [
+    2,
+    1593,
+    1733,
+    null
+   ],
+   [
+    3,
+    1593,
+    1453,
+    7
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "3k4/4R3/8/8/6K1/8/4p3/8 b - - 1 2",
+    "before": 1595,
+    "after": -1943
+   },
+   {
+    "fen": "3k4/8/8/4R3/6K1/8/4p3/8 b - - 1 2",
+    "before": 1620,
+    "after": -219
+   },
+   {
+    "fen": "3k4/8/8/8/4R1K1/8/4p3/8 b - - 1 2",
+    "before": 1606,
+    "after": -39
+   },
+   {
+    "fen": "3k4/8/4R3/8/7K/8/4p3/8 b - - 1 2",
+    "before": 1714,
+    "after": -153
+   },
+   {
+    "fen": "3k4/8/4R3/8/8/6K1/4p3/8 b - - 1 2",
+    "before": 1683,
+    "after": -55
+   },
+   {
+    "fen": "3k4/8/8/8/6K1/4R3/4p3/8 b - - 1 2",
+    "before": 1636,
+    "after": -40
+   },
+   {
+    "fen": "3k4/8/4R3/8/8/5K2/4p3/8 b - - 1 2",
+    "before": 1749,
+    "after": -100
+   }
+  ]
+ },
+ {
+  "fen": "5K2/8/8/8/8/8/pB1k4/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "pawn",
+  "leader": "f8g7",
+  "challenger": "f8g8",
+  "reply": "d2e2",
+  "original_values": [
+   -103,
+   -107
+  ],
+  "witness_values": [
+   -122,
+   -121
+  ],
+  "rows": [
+   [
+    0,
+    -109,
+    -82,
+    null
+   ],
+   [
+    1,
+    -110,
+    -108,
+    null
+   ],
+   [
+    2,
+    -121,
+    -123,
+    6
+   ],
+   [
+    3,
+    -107,
+    -91,
+    null
+   ],
+   [
+    4,
+    -107,
+    -110,
+    8
+   ],
+   [
+    5,
+    -107,
+    -101,
+    null
+   ],
+   [
+    6,
+    -107,
+    0,
+    null
+   ],
+   [
+    7,
+    -107,
+    55,
+    null
+   ],
+   [
+    8,
+    -107,
+    0,
+    null
+   ],
+   [
+    9,
+    -107,
+    0,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "7K/8/8/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -92,
+    "after": -548
+   },
+   {
+    "fen": "5K2/8/8/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -111,
+    "after": -646
+   },
+   {
+    "fen": "6K1/8/8/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -113,
+    "after": -524
+   },
+   {
+    "fen": "8/8/7K/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -74,
+    "after": -535
+   },
+   {
+    "fen": "8/8/5K2/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -114,
+    "after": -787
+   },
+   {
+    "fen": "8/6K1/8/4B3/8/8/p3k3/8 b - - 3 2",
+    "before": -110,
+    "after": -330
+   }
+  ]
+ },
+ {
+  "fen": "5K2/8/8/8/8/8/pB1k4/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "both",
+  "leader": "f8g7",
+  "challenger": "f8g8",
+  "reply": "d2e2",
+  "original_values": [
+   -103,
+   -107
+  ],
+  "witness_values": [
+   -122,
+   -121
+  ],
+  "rows": [
+   [
+    0,
+    -109,
+    -82,
+    null
+   ],
+   [
+    1,
+    -110,
+    -108,
+    null
+   ],
+   [
+    2,
+    -121,
+    -123,
+    6
+   ],
+   [
+    3,
+    -107,
+    -91,
+    null
+   ],
+   [
+    4,
+    -107,
+    -110,
+    8
+   ],
+   [
+    5,
+    -107,
+    -101,
+    null
+   ],
+   [
+    6,
+    -107,
+    0,
+    null
+   ],
+   [
+    7,
+    -107,
+    55,
+    null
+   ],
+   [
+    8,
+    -107,
+    0,
+    null
+   ],
+   [
+    9,
+    -107,
+    0,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "7K/8/8/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -92,
+    "after": -548
+   },
+   {
+    "fen": "5K2/8/8/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -111,
+    "after": -646
+   },
+   {
+    "fen": "6K1/8/8/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -113,
+    "after": -524
+   },
+   {
+    "fen": "8/8/7K/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -74,
+    "after": -535
+   },
+   {
+    "fen": "8/8/5K2/8/8/8/pB2k3/8 b - - 3 2",
+    "before": -114,
+    "after": -787
+   },
+   {
+    "fen": "8/6K1/8/4B3/8/8/p3k3/8 b - - 3 2",
+    "before": -110,
+    "after": -330
+   }
+  ]
+ },
+ {
+  "fen": "8/4Kpk1/8/3N4/8/8/8/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "king",
+  "leader": "d5f6",
+  "challenger": "d5f4",
+  "reply": "g7g6",
+  "original_values": [
+   0,
+   -107
+  ],
+  "witness_values": [
+   -122,
+   -107
+  ],
+  "rows": [
+   [
+    0,
+    -107,
+    0,
+    null
+   ],
+   [
+    1,
+    -107,
+    0,
+    null
+   ],
+   [
+    2,
+    -107,
+    -129,
+    5
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "4K3/5p2/5Nk1/8/8/8/8/8 b - - 3 2",
+    "before": -57,
+    "after": -1899
+   },
+   {
+    "fen": "3K4/5p2/5Nk1/8/8/8/8/8 b - - 3 2",
+    "before": 18,
+    "after": -1969
+   },
+   {
+    "fen": "8/3K1p2/5Nk1/8/8/8/8/8 b - - 3 2",
+    "before": -70,
+    "after": -1708
+   },
+   {
+    "fen": "5K2/5p2/5Nk1/8/8/8/8/8 b - - 3 2",
+    "before": 37,
+    "after": -1884
+   },
+   {
+    "fen": "8/4Kp1N/6k1/8/8/8/8/8 b - - 3 2",
+    "before": -107,
+    "after": -227
+   }
+  ]
+ },
+ {
+  "fen": "8/4Kpk1/8/3N4/8/8/8/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "both",
+  "leader": "d5f6",
+  "challenger": "d5f4",
+  "reply": "g7g6",
+  "original_values": [
+   0,
+   -107
+  ],
+  "witness_values": [
+   -122,
+   -107
+  ],
+  "rows": [
+   [
+    0,
+    -107,
+    0,
+    null
+   ],
+   [
+    1,
+    -107,
+    0,
+    null
+   ],
+   [
+    2,
+    -107,
+    -129,
+    5
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "4K3/5p2/5Nk1/8/8/8/8/8 b - - 3 2",
+    "before": -57,
+    "after": -1899
+   },
+   {
+    "fen": "3K4/5p2/5Nk1/8/8/8/8/8 b - - 3 2",
+    "before": 18,
+    "after": -1969
+   },
+   {
+    "fen": "8/3K1p2/5Nk1/8/8/8/8/8 b - - 3 2",
+    "before": -70,
+    "after": -1708
+   },
+   {
+    "fen": "5K2/5p2/5Nk1/8/8/8/8/8 b - - 3 2",
+    "before": 37,
+    "after": -1884
+   },
+   {
+    "fen": "8/4Kp1N/6k1/8/8/8/8/8 b - - 3 2",
+    "before": -107,
+    "after": -227
+   }
+  ]
+ },
+ {
+  "fen": "1K5k/8/6p1/8/4N3/8/8/8 w - - 0 1",
+  "cohort": "random",
+  "extension": "king",
+  "leader": "e4f6",
+  "challenger": "e4g5",
+  "reply": "h8g7",
+  "original_values": [
+   23,
+   -17
+  ],
+  "witness_values": [
+   -123,
+   -17
+  ],
+  "rows": [
+   [
+    0,
+    -17,
+    -124,
+    5
+   ],
+   [
+    1,
+    -17,
+    23,
+    null
+   ]
+  ],
+  "edits": [
+   {
+    "fen": "2K5/6k1/5Np1/8/8/8/8/8 b - - 3 2",
+    "before": 88,
+    "after": -1852
+   },
+   {
+    "fen": "K7/6k1/5Np1/8/8/8/8/8 b - - 3 2",
+    "before": 55,
+    "after": -1991
+   },
+   {
+    "fen": "8/2K3k1/5Np1/8/8/8/8/8 b - - 3 2",
+    "before": 124,
+    "after": -1749
+   },
+   {
+    "fen": "8/1K4k1/5Np1/8/8/8/8/8 b - - 3 2",
+    "before": -5,
+    "after": -1929
+   },
+   {
+    "fen": "8/K5k1/5Np1/8/8/8/8/8 b - - 3 2",
+    "before": 40,
+    "after": -1991
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/2N5/2pk4/8/1K6/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "clip_pair",
+  "leader": "c5b3",
+  "challenger": "c5e6",
+  "reply": "d4e4",
+  "original_values": [
+   -112,
+   -116
+  ],
+  "witness_values": [
+   -119,
+   -116
+  ],
+  "rows": null,
+  "edits": [
+   {
+    "fen": "8/8/8/8/2p1k3/1NK5/8/8 b - - 3 2",
+    "before": -112,
+    "after": -135
+   },
+   {
+    "fen": "8/8/8/8/2p1k3/1N6/2K5/8 b - - 3 2",
+    "before": -92,
+    "after": -143
+   },
+   {
+    "fen": "8/8/8/8/2p1k3/1N6/8/2K5 b - - 3 2",
+    "before": -104,
+    "after": -126
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/1pk1K3/8/1B6/8/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "clip_pair",
+  "leader": "b3g8",
+  "challenger": "e5e4",
+  "reply": "c5c6",
+  "original_values": [
+   -121,
+   -122
+  ],
+  "witness_values": [
+   -121,
+   -113
+  ],
+  "rows": null,
+  "edits": [
+   {
+    "fen": "8/8/3k4/1p6/2B1K3/8/8/8 b - - 3 2",
+    "before": -132,
+    "after": -76
+   }
+  ]
+ },
+ {
+  "fen": "8/1k6/1p6/1K6/8/1N6/8/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "clip_pair",
+  "leader": "b3d4",
+  "challenger": "b3a5",
+  "reply": "b7c7",
+  "original_values": [
+   -118,
+   -133
+  ],
+  "witness_values": [
+   -118,
+   -72
+  ],
+  "rows": null,
+  "edits": [
+   {
+    "fen": "8/2k5/Kp6/N7/8/8/8/8 b - - 3 2",
+    "before": -133,
+    "after": -72
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/4p3/8/7k/2N5/1K6 w - - 0 1",
+  "cohort": "random",
+  "extension": "clip_permuted",
+  "leader": "b1c1",
+  "challenger": "c2d4",
+  "reply": "h3g4",
+  "original_values": [
+   -129,
+   -140
+  ],
+  "witness_values": [
+   -120,
+   -116
+  ],
+  "rows": null,
+  "edits": [
+   {
+    "fen": "8/8/8/4p3/3N2k1/8/1K6/8 b - - 3 2",
+    "before": -150,
+    "after": -104
+   },
+   {
+    "fen": "8/8/8/4p3/3N4/6k1/8/K7 b - - 3 2",
+    "before": -163,
+    "after": -116
+   },
+   {
+    "fen": "8/8/8/4p3/3N4/8/7k/2K5 b - - 3 2",
+    "before": -125,
+    "after": -72
+   },
+   {
+    "fen": "8/8/8/4p3/3N4/8/6k1/2K5 b - - 3 2",
+    "before": -160,
+    "after": -116
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/5pk1/4R3/5K2/8/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "clip_permuted",
+  "leader": "e4e6",
+  "challenger": "e4e8",
+  "reply": "g5h4",
+  "original_values": [
+   1635,
+   1626
+  ],
+  "witness_values": [
+   1650,
+   1655
+  ],
+  "rows": null,
+  "edits": [
+   {
+    "fen": "8/8/8/5p1k/4R3/5K2/8/8 b - - 3 2",
+    "before": 1426,
+    "after": 1771
+   }
+  ]
+ },
+ {
+  "fen": "8/8/8/1pk1K3/8/1B6/8/8 w - - 0 1",
+  "cohort": "played",
+  "extension": "clip_permuted",
+  "leader": "b3g8",
+  "challenger": "e5e6",
+  "reply": "c5c6",
+  "original_values": [
+   -121,
+   -149
+  ],
+  "witness_values": [
+   -121,
+   -92
+  ],
+  "rows": null,
+  "edits": [
+   {
+    "fen": "8/8/4K3/1p6/B2k4/8/8/8 b - - 3 2",
+    "before": -152,
+    "after": -54
+   }
+  ]
+ }
+]

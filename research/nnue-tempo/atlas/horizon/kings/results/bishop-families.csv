@@ -1,0 +1,6 @@
+family,n,correct,tied,wrong,both7zero,keep6_points,keep7_points,direct_points
+direct_check,53,22,1,30,38,16.25,42.0,31.25
+discovered,72,19,0,53,50,26.0,23.0,29.25
+pin_or_check,20,5,1,14,20,5.5,11.75,11.75
+quiet_pin,108,15,0,93,95,15.0,77.0,84.0
+royal_fork,42,42,0,0,0,30.25,42.0,6.0

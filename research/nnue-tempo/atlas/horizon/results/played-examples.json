@@ -1,0 +1,596 @@
+[
+  {
+    "game": "boieijcd",
+    "normalized_fen": "1Q6/8/8/K7/8/5p2/6k1/8 w - - 1 50",
+    "choices": [
+      {
+        "white": "Qb6",
+        "black_wdl": 0,
+        "hand": -2494,
+        "neural": -17,
+        "optimal_black_replies": [
+          {
+            "black": "f2",
+            "optimal_white_replies": [
+              "Qd8",
+              "Qb8",
+              "Qc7",
+              "Qb7+",
+              "Qa7",
+              "Qh6",
+              "Qg6+",
+              "Qf6",
+              "Qe6",
+              "Qd6",
+              "Qc6+",
+              "Qa6",
+              "Qc5",
+              "Qb5",
+              "Qd4",
+              "Qb4",
+              "Qe3",
+              "Qb3",
+              "Qxf2+",
+              "Qb2",
+              "Qb1",
+              "Ka6",
+              "Kb5",
+              "Kb4",
+              "Ka4"
+            ]
+          }
+        ]
+      },
+      {
+        "white": "Qb7",
+        "black_wdl": -1,
+        "hand": -2494,
+        "neural": -889,
+        "optimal_black_replies": [
+          {
+            "black": "Kh3",
+            "optimal_white_replies": [
+              "Qc8+",
+              "Qa8",
+              "Qh7+",
+              "Qf7",
+              "Qd7+",
+              "Qa7",
+              "Qc6",
+              "Qb6",
+              "Qa6",
+              "Qd5",
+              "Qb5",
+              "Qe4",
+              "Qxf3+",
+              "Qb3",
+              "Qb2",
+              "Qb1",
+              "Kb6",
+              "Ka6",
+              "Kb5",
+              "Kb4",
+              "Ka4"
+            ]
+          },
+          {
+            "black": "Kg3",
+            "optimal_white_replies": [
+              "Qb8+",
+              "Qa8",
+              "Qh7",
+              "Qg7+",
+              "Qc7+",
+              "Qc6",
+              "Qa6",
+              "Qd5",
+              "Qb5",
+              "Qe4",
+              "Qb3",
+              "Qb1",
+              "Kb6",
+              "Ka6",
+              "Kb5",
+              "Kb4",
+              "Ka4"
+            ]
+          },
+          {
+            "black": "Kh2",
+            "optimal_white_replies": [
+              "Qb8+",
+              "Qh7+",
+              "Qf7",
+              "Qc7+",
+              "Qa7",
+              "Qb6",
+              "Qa6",
+              "Qb5",
+              "Qxf3",
+              "Qb2+",
+              "Qb1"
+            ]
+          },
+          {
+            "black": "Kf2",
+            "optimal_white_replies": [
+              "Qc8",
+              "Qb8",
+              "Qa8",
+              "Qh7",
+              "Qg7",
+              "Qf7",
+              "Qe7",
+              "Qd7",
+              "Qc7",
+              "Qa7+",
+              "Qc6",
+              "Qb6+",
+              "Qa6",
+              "Qd5",
+              "Qb5",
+              "Qe4",
+              "Qb4",
+              "Qb3",
+              "Qb2+",
+              "Qb1",
+              "Kb6",
+              "Ka6",
+              "Kb5",
+              "Kb4",
+              "Ka4"
+            ]
+          },
+          {
+            "black": "Kh1",
+            "optimal_white_replies": [
+              "Qa8",
+              "Qh7+",
+              "Qc6",
+              "Qa6",
+              "Qd5",
+              "Qb5",
+              "Qe4",
+              "Qxf3+",
+              "Qb1+",
+              "Kb6",
+              "Ka6",
+              "Kb5",
+              "Kb4",
+              "Ka4"
+            ]
+          },
+          {
+            "black": "Kg1",
+            "optimal_white_replies": [
+              "Qg7+",
+              "Qxf3",
+              "Qb1+"
+            ]
+          },
+          {
+            "black": "Kf1",
+            "optimal_white_replies": [
+              "Qg7",
+              "Qa6+",
+              "Qb5+",
+              "Qxf3+",
+              "Qb1+",
+              "Kb4"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "game": "x413ym4w",
+    "normalized_fen": "8/8/8/8/8/3Kp3/5k2/5B2 w - - 3 63",
+    "choices": [
+      {
+        "white": "Be2",
+        "black_wdl": 0,
+        "hand": 0,
+        "neural": 106,
+        "optimal_black_replies": [
+          {
+            "black": "Kg3",
+            "optimal_white_replies": [
+              "Ke4",
+              "Kd4",
+              "Kc4",
+              "Kxe3",
+              "Kc3",
+              "Kc2",
+              "Bh5",
+              "Bg4",
+              "Bf1",
+              "Bd1"
+            ]
+          },
+          {
+            "black": "Kg2",
+            "optimal_white_replies": [
+              "Ke4",
+              "Kd4",
+              "Kc4",
+              "Kxe3",
+              "Kc3",
+              "Kc2",
+              "Bh5",
+              "Bg4",
+              "Bf1+",
+              "Bd1"
+            ]
+          },
+          {
+            "black": "Kg1",
+            "optimal_white_replies": [
+              "Ke4",
+              "Kd4",
+              "Kc4",
+              "Kxe3",
+              "Kc3",
+              "Kc2",
+              "Bh5",
+              "Bg4",
+              "Bf3",
+              "Bf1",
+              "Bd1"
+            ]
+          },
+          {
+            "black": "Ke1",
+            "optimal_white_replies": [
+              "Kxe3",
+              "Bh5",
+              "Bg4",
+              "Bf3",
+              "Bf1",
+              "Bd1"
+            ]
+          }
+        ]
+      },
+      {
+        "white": "Bh3",
+        "black_wdl": 1,
+        "hand": 0,
+        "neural": 1016,
+        "optimal_black_replies": [
+          {
+            "black": "e2",
+            "optimal_white_replies": [
+              "Bc8",
+              "Bd7",
+              "Be6",
+              "Bf5",
+              "Bg4",
+              "Bg2",
+              "Bf1",
+              "Ke4",
+              "Kd4",
+              "Kc4",
+              "Kc3",
+              "Kd2",
+              "Kc2"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "game": "vl90td4e",
+    "normalized_fen": "8/3k4/1R6/8/7r/4K3/8/8 w - - 13 53",
+    "choices": [
+      {
+        "white": "Rg6",
+        "black_wdl": 0,
+        "hand": 0,
+        "neural": 13,
+        "optimal_black_replies": [
+          {
+            "black": "Ke8",
+            "optimal_white_replies": [
+              "Rg8+",
+              "Rg7",
+              "Rf6",
+              "Re6+",
+              "Rd6",
+              "Rc6",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Kd8",
+            "optimal_white_replies": [
+              "Rg8+",
+              "Rg7",
+              "Rf6",
+              "Re6",
+              "Rd6+",
+              "Rc6",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Kc8",
+            "optimal_white_replies": [
+              "Rg8+",
+              "Rg7",
+              "Rf6",
+              "Re6",
+              "Rd6",
+              "Rc6+",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Ke7",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rg7+",
+              "Rc6",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Kc7",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rg7+",
+              "Rf6",
+              "Re6",
+              "Ra6",
+              "Rg5",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Rh8",
+            "optimal_white_replies": [
+              "Rg7+",
+              "Rf6",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg4",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf4",
+              "Ke4",
+              "Kd4",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Rh7",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rf6",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg4",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf4",
+              "Ke4",
+              "Kd4",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Rh5",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rg7+",
+              "Rf6",
+              "Rb6",
+              "Ra6",
+              "Rg4",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf4",
+              "Ke4",
+              "Kd4",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Rc4",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rg7+",
+              "Rh6",
+              "Rf6",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Rb4",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rg7+",
+              "Rh6",
+              "Rf6",
+              "Ra6",
+              "Rg5",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Ra4",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rg7+",
+              "Rh6",
+              "Rf6",
+              "Rb6",
+              "Rg5",
+              "Rg3",
+              "Rg2",
+              "Rg1",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Rh3+",
+            "optimal_white_replies": [
+              "Kf4",
+              "Ke4",
+              "Kd4",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          },
+          {
+            "black": "Rh2",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rg7+",
+              "Rf6",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg4",
+              "Rg3",
+              "Rg1",
+              "Kf4",
+              "Ke4",
+              "Kd4",
+              "Kf3",
+              "Kd3"
+            ]
+          },
+          {
+            "black": "Rh1",
+            "optimal_white_replies": [
+              "Rg8",
+              "Rg7+",
+              "Rf6",
+              "Rb6",
+              "Ra6",
+              "Rg5",
+              "Rg4",
+              "Rg3",
+              "Rg2",
+              "Kf4",
+              "Ke4",
+              "Kd4",
+              "Kf3",
+              "Kd3",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          }
+        ]
+      },
+      {
+        "white": "Rb3",
+        "black_wdl": 1,
+        "hand": 0,
+        "neural": 11,
+        "optimal_black_replies": [
+          {
+            "black": "Rh3+",
+            "optimal_white_replies": [
+              "Kf4",
+              "Ke4",
+              "Kd4",
+              "Kf2",
+              "Ke2",
+              "Kd2"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

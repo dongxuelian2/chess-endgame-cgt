@@ -1,0 +1,29 @@
+game,white_man,black_man,wk,bk,y,high,low,nnue_margin,black_erases,white_erases
+0ykns7zh,4,2,29,12,54,49,33,-91,move_man check,step_king king_approach_other_man
+1rb6lo8v,4,1,29,27,26,13,5,208,move_man push_pawn,
+2mn4wzs3,4,1,6,33,24,20,48,176,step_king,step_king move_man king_approach_other_man king_step_under_pawn_file_control approach_enemy_king
+87gsv0w8,4,1,49,36,45,19,3,100,,step_king king_step_under_last_rank_control after_push_king_step
+880q0c1r,4,1,45,29,36,54,6,70,move_man push_pawn,move_man check check_from_far file_check attack_promotion private_destination private_man_move private_check major_on_last_rank after_push_checks after_push_man_covers_promotion after_push_uses_last_rank
+9jz0k85n,3,4,5,20,11,24,30,8,move_man check file_check contact_check cut_kings,step_king move_man attack_man king_approach_other_man private_destination private_man_move private_quiet_man_move
+9wbdo6ze,4,3,41,57,44,16,48,78,step_king,step_king move_man king_approach_other_man private_destination private_man_move private_quiet_man_move
+abzx8wn1,5,1,33,22,21,61,0,427,move_man push_pawn,move_man private_destination private_man_move private_quiet_man_move major_on_last_rank after_push_uses_last_rank
+b0zgvlxp,4,1,57,31,39,50,46,596,king_approach_other_man private_destination private_king_step approach_enemy_king,
+ba4yj2mt,4,1,15,35,18,63,58,584,step_king king_approach_own_promotion,step_king king_approach_other_man king_step_under_pawn_file_control approach_enemy_king
+boieijcd,5,1,32,14,21,41,49,872,move_man push_pawn private_destination private_man_move private_quiet_man_move private_pawn_push,move_man
+d6xmnbot,4,1,57,24,32,46,41,601,king_approach_other_man private_destination private_king_step,
+dnp9n41r,4,1,26,22,39,24,41,62,move_man push_pawn,
+ke4ai0s1,5,1,52,17,18,30,21,64,move_man push_pawn private_destination private_man_move private_quiet_man_move private_pawn_push,move_man private_destination private_man_move
+lb88grk7,3,4,4,21,42,55,37,248,move_man,step_king move_man private_destination private_man_move private_quiet_man_move
+mq25ev7a,3,4,54,35,26,15,11,57,step_king approach_enemy_king,step_king move_man private_destination private_man_move private_quiet_man_move
+mx9gsckz,4,1,43,24,25,2,26,247,,step_king attack_man guard_own_man king_approach_other_man approach_enemy_king
+oc2wmsiy,4,1,27,29,31,1,18,375,move_man push_pawn,move_man capture_man private_destination private_man_move after_push_captures_pawn
+oj4ogsus,4,1,61,41,48,28,51,132,step_king king_approach_own_promotion king_guard_own_pawn_next king_ahead_of_own_pawn king_steps_down_pawn_file,move_man attack_man cut_kings private_destination private_man_move private_quiet_man_move
+pvsyd1ny,4,1,46,36,42,19,59,227,move_man push_pawn,
+q0vkoy4l,4,3,43,58,8,25,54,-54,move_man,step_king move_man check file_check contact_check check_and_attack_man capture_man attack_man king_approach_other_man cut_kings private_destination private_man_move private_check private_quiet_man_move
+q25jew0x,5,1,44,5,21,53,30,168,move_man push_pawn,step_king king_approach_other_man approach_enemy_king after_push_king_closes after_push_king_step
+qs22m3il,5,1,44,2,18,50,49,36,move_man push_pawn,step_king king_approach_other_man approach_enemy_king after_push_king_closes after_push_king_step
+vuhg9que,4,1,32,29,39,50,55,308,move_man push_pawn,move_man check rank_check capture_man private_destination private_man_move private_check after_push_captures_pawn after_push_checks
+whlrjock,4,1,36,13,31,7,1,-179,step_king guard_own_man king_guard_own_pawn_next king_ahead_of_own_pawn approach_enemy_king,step_king king_approach_other_man king_step_under_last_rank_control king_step_toward_pawn_under_last_rank_control after_push_king_closes after_push_king_step
+x16c3pdb,5,1,41,22,21,34,3,-401,move_man push_pawn,move_man pin_man attack_man cut_kings private_destination private_man_move private_quiet_man_move major_on_last_rank after_push_uses_last_rank
+yq6lhrnd,4,1,41,29,46,8,62,345,move_man push_pawn,
+zk0d9uor,4,1,58,46,55,29,5,186,,step_king king_step_under_last_rank_control after_push_king_step

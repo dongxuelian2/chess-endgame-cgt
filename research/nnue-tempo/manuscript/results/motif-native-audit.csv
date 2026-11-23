@@ -1,0 +1,10 @@
+sample,white,black,boards
+witness,3,4,4
+witness,5,1,12
+witness,5,4,4
+validation,2,1,64
+validation,3,1,64
+validation,4,1,64
+validation,5,1,64
+validation,3,4,64
+validation,5,4,64

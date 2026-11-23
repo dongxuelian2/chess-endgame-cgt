@@ -1,0 +1,23 @@
+game,action_classes,without_guard_high,without_guard_low,high_continuations
+1rb6lo8v,attack_man guard_own_man king_approach_other_man king_approach_own_promotion king_guard_own_pawn_next king_steps_down_pawn_file move_man push_pawn step_king,-1,-1,c3 Kf3 / Kd3 | c3 Ra2 / Kd3 | c3 Rc2 / Kd3 | c3 Re2 / Kd3 | c3 Rg2 / Kd3 | c3 Rh2 / Kd3
+2mn4wzs3,,0,-1,
+87gsv0w8,,0,-1,
+880q0c1r,move_man push_pawn,0,-1,
+abzx8wn1,approach_enemy_king capture_man guard_own_man king_approach_other_man king_approach_own_promotion king_guard_own_pawn_next king_steps_down_pawn_file step_king,-1,-1,f2 Ka4 / Kg2 | f2 Ka5 / Kg2 | f2 Ka6 / Kg2 | f2 Kb4 / Kg2 | f2 Kb6 / Kg2 | f2 Kc4 / Kg2 | f2 Kc5 / Kg2 | f2 Kc6 / Kg2 | f2 Qf5 / Kg2 | f2 Qf6 / Kg2 | f2 Qf7 / Kg2
+b0zgvlxp,,0,-1,
+ba4yj2mt,,0,-1,
+boieijcd,approach_enemy_king attack_man capture_man cut_kings king_approach_other_man move_man push_pawn,0,-1,
+d6xmnbot,,0,-1,
+dnp9n41r,king_guard_own_pawn_next move_man push_pawn,-1,-1,h4 Ra3+ / Kg2 Kg4 Kh2
+ke4ai0s1,guard_own_man king_approach_own_promotion king_guard_own_pawn_next king_steps_down_pawn_file step_king,-1,-1,c2 Qc8 / Kb2 | c2 Qf4 / Kb2 | c2 Qg1 / Kb2 | c2 Qg5 / Kb2
+mx9gsckz,,0,-1,
+oc2wmsiy,guard_own_man king_approach_other_man king_approach_own_promotion king_guard_own_pawn_next step_king,-1,-1,h3 Rf1+ / Kg3 | h3 Rh1 / Kg3
+oj4ogsus,,0,-1,
+pvsyd1ny,attack_man capture_man guard_own_man king_ahead_of_own_pawn king_approach_other_man king_approach_own_promotion king_guard_own_pawn_next move_man push_pawn step_king,-1,-1,c5 Rc3 / Kd4 | c5 Rd5+ / Kxd5 | c5 Re3+ / Kd4
+q25jew0x,,0,-1,
+qs22m3il,,0,-1,
+vuhg9que,guard_own_man king_guard_own_pawn_next step_king,-1,-1,h4 Rh7 / Kg3 Kg4
+whlrjock,,0,-1,
+x16c3pdb,approach_enemy_king capture_man guard_own_man king_approach_other_man king_approach_own_promotion king_guard_own_pawn_next king_steps_down_pawn_file step_king,-1,-1,f2 Qb5 / Kg2 | f2 Qc1 / Kg2 | f2 Qc4 / Kg2 | f2 Qe3+ / Kg2 | f2 Qf5 / Kg2 | f2 Qf8 / Kg2
+yq6lhrnd,approach_enemy_king king_ahead_of_own_pawn king_approach_own_promotion king_guard_own_pawn_next king_steps_down_pawn_file move_man push_pawn,-1,-1,g5 Ra4+ / Kf3
+zk0d9uor,,0,-1,h5 Kb7 / Kg5 | h5 Kb8 / Kg5 | h5 Kc7 / Kg5 | h5 Kd7 / Kg5 | h5 Kd8 / Kg5

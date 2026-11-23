@@ -1,0 +1,25 @@
+cohort,scope,alternative,n,wdl_complete,higher,equal,lower,mean_delta
+all,all,refined,840,820,34,784,2,0.015497043407732072
+all,all,nnue,840,817,45,770,2,0.02595786486455361
+all,HCE tie,refined,375,373,34,337,2,0.03406856727705175
+all,HCE tie,nnue,375,373,39,333,1,0.04345194529313753
+all,refinement narrows,refined,324,324,34,288,2,0.039220912328210795
+all,refinement narrows,nnue,324,324,38,285,1,0.048480171587470054
+all,mixed WDL HCE tie,refined,38,38,34,2,2,0.3344098840615868
+all,mixed WDL HCE tie,nnue,38,38,37,1,0,0.40019935774579735
+played,all,refined,420,416,16,398,2,0.010158067564034756
+played,all,nnue,420,416,22,392,2,0.018571529102496296
+played,HCE tie,refined,198,198,16,180,2,0.0213422025587801
+played,HCE tie,nnue,198,198,19,178,1,0.02891796013453768
+played,refinement narrows,refined,168,168,16,150,2,0.025153310158562252
+played,refinement narrows,nnue,168,168,18,149,1,0.03110569111094321
+played,mixed WDL HCE tie,refined,19,19,16,1,2,0.2224082161388663
+played,mixed WDL HCE tie,nnue,19,19,19,0,0,0.3539871635072873
+random,all,refined,420,404,18,386,0,0.02099460269233129
+random,all,nnue,420,401,23,378,0,0.03362049747556569
+random,HCE tie,refined,177,175,18,157,0,0.04846753992972481
+random,HCE tie,nnue,177,175,20,155,0,0.059896111358296235
+random,refinement narrows,refined,156,156,18,138,0,0.05437063774167847
+random,refinement narrows,nnue,156,156,20,136,0,0.06719115056219128
+random,mixed WDL HCE tie,refined,19,19,18,1,0,0.44641155198430743
+random,mixed WDL HCE tie,nnue,19,19,18,1,0,0.44641155198430743

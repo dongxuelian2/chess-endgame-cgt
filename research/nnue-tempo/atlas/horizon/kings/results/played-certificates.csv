@@ -1,0 +1,29 @@
+game,parent_fen,high,low,native_margin,black_wdl_high,black_wdl_low,restricted_player,action,restricted_high,restricted_low,witness,uniform_erasure_probability
+0ykns7zh,8/6n1/8/8/5K2/1R6/4k3/8 w - - 8 70,Rb7,Rb5,-91,0,-1,b,check,-1,-1,Ne6+ Nh5+,0.02222222
+1rb6lo8v,8/8/8/8/2pk1K2/5R2/8/8 w - - 0 57,Rf2,Rf1,208,0,-1,b,push_pawn,-1,-1,c3,0.2
+2mn4wzs3,8/4R3/8/1k6/p7/8/8/6K1 w - - 1 47,Re3,Ra7,176,0,-1,w,king_step_under_pawn_file_control,0,0,Kb4 / Kf1 Kf2,0.11294205
+87gsv0w8,8/1K6/5p2/4k3/3R4/8/8/8 w - - 3 54,Rd3,Rd1,100,0,-1,w,king_step_under_last_rank_control,0,0,f5 / Ka6 Kb6 Kc6,0.04558504
+880q0c1r,8/8/5K2/4p3/5k2/6R1/8/8 w - - 1 59,Rg7,Rg1,70,0,-1,w,file_check,0,0,e4 / Rf1+,0.05263158
+9jz0k85n,8/8/8/8/8/4k3/3r4/3B1K2 w - - 26 60,Ba4,Bg4,8,1,0,b,contact_check,0,0,Rf2+,0.05263158
+9wbdo6ze,1k6/8/1K2b3/8/8/8/R7/8 w - - 1 73,Ra3,Ra7,78,0,-1,w,private_quiet_man_move,0,0,Bb3 / Ra3 Rc7 | Bh3 / Ra3 Rc7 Rh7,0.52516872
+abzx8wn1,Q7/8/8/1K6/8/5pk1/8/8 w - - 1 51,Qf8,Qa1,427,0,-1,w,after_push_uses_last_rank,0,0,f2 / Qf1 Qh1,0.05172414
+b0zgvlxp,1K6/6R1/8/7p/7k/8/8/8 w - - 0 55,Rc7,Rg6,596,0,-1,b,private_king_step,-1,-1,Kg3 Kg4 Kg5,0.25
+ba4yj2mt,6R1/8/8/3k4/8/2p5/7K/8 w - - 0 48,Rh8,Rc8,584,0,-1,w,king_step_under_pawn_file_control,0,0,Kd4 / Kg1 Kg2 Kg3,0.01677583
+boieijcd,1Q6/8/8/K7/8/5p2/6k1/8 w - - 1 50,Qb6,Qb7,872,0,-1,b,private_pawn_push,-1,-1,f2,0.16666667
+d6xmnbot,1K6/8/R7/p7/k7/8/8/8 w - - 0 78,Rg6,Rb6,601,0,-1,b,private_king_step,-1,-1,Kb3 Kb4 Kb5,0.25
+dnp9n41r,8/8/8/7p/1RK5/6k1/8/8 w - - 0 56,Ra4,Rb6,62,0,-1,b,push_pawn,-1,-1,h4,0.11111111
+ke4ai0s1,8/4K3/8/8/8/1kp5/6Q1/8 w - - 0 64,Qg4,Qf3,64,0,-1,b,private_pawn_push,-1,-1,c2,0.2
+lb88grk7,8/8/2r3B1/8/8/5k2/8/4K3 w - - 16 62,Bh7,Bf5,248,1,0,w,private_quiet_man_move,1,1,Kf4 / Bd7 Bh3 Bh7 | Rd6 / Bc8 | Rf6 / Bh3,0.80822999
+mq25ev7a,8/6K1/8/3k4/2r2B2/8/8/8 w - - 34 71,Bh2,Bd2,57,1,0,w,private_quiet_man_move,1,1,Rd4 / Ba5 Bc1 Bc3 Be1 Be3 Bg5 Bh6,0.00082254
+mx9gsckz,8/2R5/3K4/8/kp6/8/8/8 w - - 4 72,Rc1,Rc4,247,0,-1,w,guard_own_man,0,0,Ka3 / Kc5,0.0952381
+oc2wmsiy,8/8/8/8/3K1k1p/1R6/8/8 w - - 0 56,Rb1,Rc3,375,0,-1,w,after_push_captures_pawn,0,0,h3 / Rxh3,0.05555556
+oj4ogsus,5K2/p3R3/1k6/8/8/8/8/8 w - - 1 63,Re4,Rd7,132,0,-1,w,cut_kings,0,0,Kc5 / Rc7+ Rxa7 | a5 / Rd5,0.91882959
+pvsyd1ny,8/8/2p3K1/4k3/3R4/8/8/8 w - - 4 48,Rd3,Rd8,227,0,-1,b,push_pawn,-1,-1,c5,0.25
+q0vkoy4l,2k5/1R6/3K4/8/8/8/b7/8 w - - 43 74,Rb4,Rg7,-54,0,-1,w,contact_check,0,0,Bb3 / Rc7+ | Bc4 / Rc7+,0.20191683
+q25jew0x,6Q1/8/4K3/8/8/5p2/8/5k2 w - - 2 53,Qf7,Qg4,168,0,-1,w,after_push_king_closes,0,0,f2 / Ke5 Kf5,0.00793651
+qs22m3il,1Q6/8/4K3/8/8/2p5/8/2k5 w - - 2 56,Qc7,Qb7,36,0,-1,w,after_push_king_closes,0,0,c2 / Kd5,0.09677419
+vuhg9que,8/3R4/8/K6p/5k2/8/8/8 w - - 0 51,Rc7,Rh7,308,0,-1,w,after_push_captures_pawn,0,0,h4 / Rxh4+,0.0625
+whlrjock,8/8/8/4K3/7p/8/5k2/6R1 w - - 6 63,Rh1,Rb1,-179,0,-1,w,king_step_toward_pawn_under_last_rank_control,0,0,h3 / Kf4 Kf5,0.00971376
+x16c3pdb,8/8/1K6/8/8/5pk1/2Q5/8 w - - 3 51,Qc5,Qd1,-401,0,-1,w,pin_man,0,0,Kg2 / Qd5,0.03703704
+yq6lhrnd,R7/8/1K4p1/8/5k2/8/8/8 w - - 1 59,Ra2,Rg8,345,0,-1,b,push_pawn,-1,-1,g5,0.11111111
+zk0d9uor,2K5/7p/6k1/5R2/8/8/8/8 w - - 1 53,Rf4,Rf1,186,0,-1,w,king_step_under_last_rank_control,0,0,h5 / Kb7 Kc7 Kd7,0.01159659

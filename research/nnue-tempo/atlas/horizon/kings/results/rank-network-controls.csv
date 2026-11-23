@@ -1,0 +1,15 @@
+panel,white_man,family,n,sf12,sf141,sf18_large,sf18_large_no_direct_edges
+outside_reversal,2,direct_check,256,188.5,180.0,204.5,185.5
+outside_reversal,2,royal_fork,256,132.5,237.5,219.0,220.5
+outside_reversal,3,direct_check,256,195.0,199.5,196.0,203.0
+outside_reversal,3,discovered,242,162.0,124.5,156.5,157.5
+outside_reversal,3,pin_or_check,20,0.0,13.5,15.0,20.0
+outside_reversal,3,quiet_pin,246,126.0,175.0,202.5,208.0
+outside_reversal,3,royal_fork,252,179.5,227.5,212.5,208.5
+outside_reversal,4,direct_check,256,114.0,143.0,166.0,229.5
+outside_reversal,4,quiet_pin,6,5.0,3.0,3.5,3.0
+reversal,3,direct_check,53,2.5,22.5,30.0,21.5
+reversal,3,discovered,72,30.5,19.0,28.0,25.0
+reversal,3,pin_or_check,20,1.0,5.5,9.5,10.5
+reversal,3,quiet_pin,108,33.0,15.0,45.0,24.5
+reversal,3,royal_fork,42,2.0,42.0,40.0,7.5

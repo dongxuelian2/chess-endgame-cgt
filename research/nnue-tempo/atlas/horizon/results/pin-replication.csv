@@ -1,0 +1,10 @@
+panel,white,qualified,unpinned_better,erased,nnue_on_erased,erased_beyond_13
+enumerated,3,0,0,0,,
+fresh,3,0,0,0,,0
+previous,3,0,0,0,,0
+enumerated,4,7,4,2,1.0,
+fresh,4,3,2,1,1.0,0
+previous,4,8,6,5,1.0,0
+enumerated,5,13,13,13,0.9230769230769231,
+fresh,5,8,8,8,1.0,2
+previous,5,12,12,12,1.0,1

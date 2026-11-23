@@ -1,0 +1,7 @@
+panel,strata,common_cells,overlap_weight,effect_difference
+enumerated,material,1,33,0.025586049170954833
+enumerated,material_and_black_pawn_rank,2,26,0.009475354742345034
+fresh,material,1,3,0.0
+fresh,material_and_black_pawn_rank,1,3,0.0
+previous,material,1,2,0.0
+previous,material_and_black_pawn_rank,1,2,0.0

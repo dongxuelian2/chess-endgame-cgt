@@ -1,0 +1,1753 @@
+[
+ {
+  "rule": "king_takes_actor",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/8/p7/1R6/K1k5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b2d2",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1378,
+    "nnue": -1762,
+    "best_replies": [
+     "c1d2"
+    ],
+    "deleted_best": [
+     "c1d2"
+    ]
+   },
+   {
+    "uci": "b2a2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1378,
+    "nnue": -1955,
+    "best_replies": [
+     "c1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "man_takes_actor",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/8/8/K2Qr1k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "d1c1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 754,
+    "best_replies": [
+     "e1c1"
+    ],
+    "deleted_best": [
+     "e1c1"
+    ]
+   },
+   {
+    "uci": "d1b1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 181,
+    "best_replies": [
+     "g1f2",
+     "g1f1",
+     "e1f1",
+     "e1b1"
+    ],
+    "deleted_best": [
+     "e1b1"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "trade_last_men",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/1Q6/1r6/K1k5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b3a2",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1478,
+    "nnue": -128,
+    "best_replies": [
+     "b2a2"
+    ],
+    "deleted_best": [
+     "b2a2"
+    ]
+   },
+   {
+    "uci": "b3a3",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1478,
+    "nnue": -456,
+    "best_replies": [
+     "c1d2",
+     "c1c2",
+     "c1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "clean_man_capture",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/8/8/K2Qr1k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "d1c1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 754,
+    "best_replies": [
+     "e1c1"
+    ],
+    "deleted_best": [
+     "e1c1"
+    ]
+   },
+   {
+    "uci": "d1b1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 181,
+    "best_replies": [
+     "g1f2",
+     "g1f1",
+     "e1f1",
+     "e1b1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "quiet_promotion",
+  "material": "KQvKP",
+  "fen": "8/8/8/8/8/Q7/2p5/K5k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "a3a2",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -2494,
+    "nnue": 47,
+    "best_replies": [
+     "c2c1q"
+    ],
+    "deleted_best": [
+     "c2c1q"
+    ]
+   },
+   {
+    "uci": "a3b2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -2494,
+    "nnue": -1114,
+    "best_replies": [
+     "g1h2",
+     "g1g2",
+     "g1f2",
+     "g1h1",
+     "g1f1",
+     "c2c1q",
+     "c2c1r",
+     "c2c1b",
+     "c2c1n"
+    ],
+    "deleted_best": [
+     "c2c1q",
+     "c2c1r",
+     "c2c1b",
+     "c2c1n"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "capture_promotion",
+  "material": "KQvKP",
+  "fen": "8/8/8/8/8/1Q6/p2k4/K7 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b3b1",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -2554,
+    "nnue": -2424,
+    "best_replies": [
+     "a2b1q",
+     "a2b1r",
+     "a2b1b",
+     "a2b1n"
+    ],
+    "deleted_best": [
+     "a2b1q",
+     "a2b1r",
+     "a2b1b",
+     "a2b1n"
+    ]
+   },
+   {
+    "uci": "b3a3",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -2554,
+    "nnue": -2520,
+    "best_replies": [
+     "d2e2",
+     "d2c2",
+     "d2e1",
+     "d2d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "underpromotion",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/2k5/8/K1p5/4R3 w - - 0 1",
+  "moves": [
+   {
+    "uci": "e1e6",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -216,
+    "nnue": -40,
+    "best_replies": [
+     "c2c1n"
+    ],
+    "deleted_best": [
+     "c2c1n"
+    ]
+   },
+   {
+    "uci": "e1a1",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -216,
+    "nnue": -702,
+    "best_replies": [
+     "c4d5",
+     "c4c5",
+     "c4b5",
+     "c4d4",
+     "c4b4",
+     "c4d3",
+     "c4c3",
+     "c2c1q",
+     "c2c1r",
+     "c2c1b",
+     "c2c1n"
+    ],
+    "deleted_best": [
+     "c2c1r",
+     "c2c1b",
+     "c2c1n"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "checking_promotion",
+  "material": "KQvKP",
+  "fen": "8/8/8/8/8/Q7/2p5/K5k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "a3a2",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -2494,
+    "nnue": 47,
+    "best_replies": [
+     "c2c1q"
+    ],
+    "deleted_best": [
+     "c2c1q"
+    ]
+   },
+   {
+    "uci": "a3b2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -2494,
+    "nnue": -1114,
+    "best_replies": [
+     "g1h2",
+     "g1g2",
+     "g1f2",
+     "g1h1",
+     "g1f1",
+     "c2c1q",
+     "c2c1r",
+     "c2c1b",
+     "c2c1n"
+    ],
+    "deleted_best": [
+     "c2c1q",
+     "c2c1r"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "surviving_promotion",
+  "material": "KQvKP",
+  "fen": "8/8/8/8/8/1Q6/3p4/K1k5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b3g3",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -2574,
+    "nnue": 82,
+    "best_replies": [
+     "d2d1q"
+    ],
+    "deleted_best": [
+     "d2d1q"
+    ]
+   },
+   {
+    "uci": "b3a2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -2574,
+    "nnue": -89,
+    "best_replies": [
+     "c1d1",
+     "d2d1q",
+     "d2d1r",
+     "d2d1b",
+     "d2d1n"
+    ],
+    "deleted_best": [
+     "d2d1q",
+     "d2d1r",
+     "d2d1b",
+     "d2d1n"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "double_push",
+  "material": "KRvKP",
+  "fen": "8/6p1/8/8/1R6/8/5k2/K7 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b4b1",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1374,
+    "nnue": -322,
+    "best_replies": [
+     "g7g5"
+    ],
+    "deleted_best": [
+     "g7g5"
+    ]
+   },
+   {
+    "uci": "b4a4",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1374,
+    "nnue": -607,
+    "best_replies": [
+     "f2g3",
+     "f2f3",
+     "f2e3",
+     "f2g2",
+     "f2e2",
+     "f2g1",
+     "f2f1",
+     "f2e1",
+     "g7g6",
+     "g7g5"
+    ],
+    "deleted_best": [
+     "g7g5"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "single_push",
+  "material": "KBvKP",
+  "fen": "8/8/8/8/8/1p6/2B5/K1k5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "c2d1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 321,
+    "best_replies": [
+     "b3b2"
+    ],
+    "deleted_best": [
+     "b3b2"
+    ]
+   },
+   {
+    "uci": "c2b1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 212,
+    "best_replies": [
+     "c1d2",
+     "c1d1",
+     "b3b2"
+    ],
+    "deleted_best": [
+     "b3b2"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "pawn_chase",
+  "material": "KNvKP",
+  "fen": "8/8/8/8/8/2p1N3/8/K5k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "e3d1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 156,
+    "best_replies": [
+     "c3c2"
+    ],
+    "deleted_best": [
+     "c3c2"
+    ]
+   },
+   {
+    "uci": "e3f1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 145,
+    "best_replies": [
+     "g1g2",
+     "g1f2",
+     "g1h1",
+     "g1f1",
+     "c3c2"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "king_unblocks_pawn",
+  "material": "KNvKP",
+  "fen": "8/8/8/1p6/1k6/8/1N6/K7 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b2c4",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 119,
+    "best_replies": [
+     "b4c4"
+    ],
+    "deleted_best": [
+     "b4c4"
+    ]
+   },
+   {
+    "uci": "b2a4",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 95,
+    "best_replies": [
+     "b4a5",
+     "b4c4",
+     "b4a4",
+     "b4b3",
+     "b4a3",
+     "b5a4"
+    ],
+    "deleted_best": [
+     "b4a5",
+     "b4c4",
+     "b4a4",
+     "b4b3",
+     "b4a3"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "escort_promotion",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/8/4p3/1R6/K5k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b2a2",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -200,
+    "nnue": 103,
+    "best_replies": [
+     "g1f1"
+    ],
+    "deleted_best": [
+     "g1f1"
+    ]
+   },
+   {
+    "uci": "b2e2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -200,
+    "nnue": -2,
+    "best_replies": [
+     "g1h1",
+     "g1f1"
+    ],
+    "deleted_best": [
+     "g1f1"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "king_escorts_pawn",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/R7/1p6/8/K2k4 w - - 0 1",
+  "moves": [
+   {
+    "uci": "a4a3",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -224,
+    "nnue": -1840,
+    "best_replies": [
+     "d1c2"
+    ],
+    "deleted_best": [
+     "d1c2"
+    ]
+   },
+   {
+    "uci": "a4b4",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -224,
+    "nnue": -1868,
+    "best_replies": [
+     "d1e2",
+     "d1d2",
+     "d1c2",
+     "d1e1",
+     "d1c1",
+     "b3b2"
+    ],
+    "deleted_best": [
+     "d1c2"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "direct_check",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/8/8/K2Qr1k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "d1c1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 754,
+    "best_replies": [
+     "e1c1"
+    ],
+    "deleted_best": [
+     "e1c1"
+    ]
+   },
+   {
+    "uci": "d1b1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 181,
+    "best_replies": [
+     "g1f2",
+     "g1f1",
+     "e1f1",
+     "e1b1"
+    ],
+    "deleted_best": [
+     "e1b1"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "discovered_check",
+  "material": "KRvKR",
+  "fen": "8/8/8/8/8/8/8/K1krR3 w - - 0 1",
+  "moves": [
+   {
+    "uci": "e1e3",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 0,
+    "best_replies": [
+     "c1d2"
+    ],
+    "deleted_best": [
+     "c1d2"
+    ]
+   },
+   {
+    "uci": "e1e2",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": -3,
+    "best_replies": [
+     "d1d8",
+     "d1d7",
+     "d1d6",
+     "d1d5",
+     "d1d4",
+     "d1d3",
+     "d1d2",
+     "d1h1",
+     "d1g1",
+     "d1f1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "contact_check",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/1Q6/1r6/K1k5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b3a2",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1478,
+    "nnue": -128,
+    "best_replies": [
+     "b2a2"
+    ],
+    "deleted_best": [
+     "b2a2"
+    ]
+   },
+   {
+    "uci": "b3a3",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1478,
+    "nnue": -456,
+    "best_replies": [
+     "c1d2",
+     "c1c2",
+     "c1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "long_check",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/8/8/K1Q1r1k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "c1d1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 602,
+    "best_replies": [
+     "e1d1"
+    ],
+    "deleted_best": [
+     "e1d1"
+    ]
+   },
+   {
+    "uci": "c1b1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 181,
+    "best_replies": [
+     "g1f2",
+     "g1f1",
+     "e1f1",
+     "e1b1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "guarded_check",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/5r2/1Q6/K5k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b2c2",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1409,
+    "nnue": 75,
+    "best_replies": [
+     "f3f1"
+    ],
+    "deleted_best": [
+     "f3f1"
+    ]
+   },
+   {
+    "uci": "b2b4",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1409,
+    "nnue": 69,
+    "best_replies": [
+     "f3f8",
+     "f3f7",
+     "f3f6",
+     "f3f5",
+     "f3f4",
+     "f3h3",
+     "f3g3",
+     "f3e3",
+     "f3d3",
+     "f3c3",
+     "f3b3",
+     "f3a3",
+     "f3f2",
+     "f3f1",
+     "g1h2",
+     "g1g2",
+     "g1f2",
+     "g1h1",
+     "g1f1"
+    ],
+    "deleted_best": [
+     "f3f1"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "fork",
+  "material": "KBvKR",
+  "fen": "8/8/8/8/8/2B5/2r5/K5k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "c3e1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": 255,
+    "best_replies": [
+     "c2c1"
+    ],
+    "deleted_best": [
+     "c2c1"
+    ]
+   },
+   {
+    "uci": "c3b2",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": -42,
+    "best_replies": [
+     "c2c8",
+     "c2c7",
+     "c2c6",
+     "c2c5",
+     "c2c4",
+     "c2c3",
+     "c2h2",
+     "c2g2",
+     "c2f2",
+     "c2e2",
+     "c2d2",
+     "c2b2",
+     "c2c1",
+     "g1h2",
+     "g1g2",
+     "g1f2",
+     "g1h1",
+     "g1f1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "skewer",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/8/Q7/1K2kr2 w - - 0 1",
+  "moves": [
+   {
+    "uci": "a2a1",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1441,
+    "nnue": 334,
+    "best_replies": [
+     "e1f2",
+     "e1e2",
+     "e1d2"
+    ],
+    "deleted_best": [
+     "e1f2",
+     "e1e2",
+     "e1d2"
+    ]
+   },
+   {
+    "uci": "a2b2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1441,
+    "nnue": 155,
+    "best_replies": [
+     "f1f8",
+     "f1f7",
+     "f1f6",
+     "f1f5",
+     "f1f4",
+     "f1f3",
+     "f1f2",
+     "f1h1",
+     "f1g1",
+     "e1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "pin",
+  "material": "KBvKR",
+  "fen": "8/8/8/8/8/8/2B5/K5kr w - - 0 1",
+  "moves": [
+   {
+    "uci": "c2d1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": 322,
+    "best_replies": [
+     "g1h2",
+     "g1g2",
+     "g1f2"
+    ],
+    "deleted_best": [
+     "g1h2",
+     "g1g2",
+     "g1f2"
+    ]
+   },
+   {
+    "uci": "c2b1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": -63,
+    "best_replies": [
+     "h1h8",
+     "h1h7",
+     "h1h6",
+     "h1h5",
+     "h1h4",
+     "h1h3",
+     "h1h2",
+     "g1h2",
+     "g1g2",
+     "g1f2",
+     "g1f1"
+    ],
+    "deleted_best": [
+     "g1h2",
+     "g1g2",
+     "g1f2"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "unpin",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/7R/3p4/8/K2k4 w - - 0 1",
+  "moves": [
+   {
+    "uci": "h4d4",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -200,
+    "nnue": -727,
+    "best_replies": [
+     "d1c2"
+    ],
+    "deleted_best": [
+     "d1c2"
+    ]
+   },
+   {
+    "uci": "h4h2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -200,
+    "nnue": -728,
+    "best_replies": [
+     "d1e1",
+     "d1c1",
+     "d3d2"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "stay_on_pin_line",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/8/8/K2Qr1k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "d1c1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 754,
+    "best_replies": [
+     "e1c1"
+    ],
+    "deleted_best": [
+     "e1c1"
+    ]
+   },
+   {
+    "uci": "d1b1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": -1409,
+    "nnue": 181,
+    "best_replies": [
+     "g1f2",
+     "g1f1",
+     "e1f1",
+     "e1b1"
+    ],
+    "deleted_best": [
+     "e1f1",
+     "e1b1"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "escape_attack",
+  "material": "KRvKN",
+  "fen": "8/8/8/8/8/6R1/8/K1k2n2 w - - 0 1",
+  "moves": [
+   {
+    "uci": "g3f3",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -116,
+    "nnue": -47,
+    "best_replies": [
+     "f1d2"
+    ],
+    "deleted_best": [
+     "f1d2"
+    ]
+   },
+   {
+    "uci": "g3g1",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -116,
+    "nnue": -1187,
+    "best_replies": [
+     "c1d2",
+     "c1c2",
+     "c1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "king_rescue",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/R7/1p6/8/K2k4 w - - 0 1",
+  "moves": [
+   {
+    "uci": "a4a3",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -224,
+    "nnue": -1840,
+    "best_replies": [
+     "d1c2"
+    ],
+    "deleted_best": [
+     "d1c2"
+    ]
+   },
+   {
+    "uci": "a4b4",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -224,
+    "nnue": -1868,
+    "best_replies": [
+     "d1e2",
+     "d1d2",
+     "d1c2",
+     "d1e1",
+     "d1c1",
+     "b3b2"
+    ],
+    "deleted_best": [
+     "d1c2"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "king_fork_defence",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/8/1R6/2p5/K1k5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b3e3",
+    "wdl_black": 1,
+    "restricted_black": -1,
+    "classical": -192,
+    "nnue": -112,
+    "best_replies": [
+     "c1d2"
+    ],
+    "deleted_best": [
+     "c1d2"
+    ]
+   },
+   {
+    "uci": "b3b2",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": -192,
+    "nnue": -141,
+    "best_replies": [
+     "c1d2",
+     "c1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "king_attack_loose",
+  "material": "KRvKN",
+  "fen": "8/8/1n6/8/8/1R6/8/K1k5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b3d3",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -156,
+    "nnue": -7,
+    "best_replies": [
+     "c1c2"
+    ],
+    "deleted_best": [
+     "c1c2"
+    ]
+   },
+   {
+    "uci": "b3b4",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -156,
+    "nnue": -259,
+    "best_replies": [
+     "b6c8",
+     "b6a8",
+     "b6d7",
+     "b6d5",
+     "b6c4",
+     "b6a4",
+     "c1d2",
+     "c1c2",
+     "c1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "king_attack_guarded",
+  "material": "KBvKR",
+  "fen": "8/8/8/8/8/B1r5/8/1K2k3 w - - 0 1",
+  "moves": [
+   {
+    "uci": "a3c1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 87,
+    "nnue": -54,
+    "best_replies": [
+     "e1d1"
+    ],
+    "deleted_best": [
+     "e1d1"
+    ]
+   },
+   {
+    "uci": "a3b2",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 87,
+    "nnue": -56,
+    "best_replies": [
+     "c3c8",
+     "c3c7",
+     "c3c6",
+     "c3c5",
+     "c3c4",
+     "c3h3",
+     "c3g3",
+     "c3f3",
+     "c3e3",
+     "c3d3",
+     "c3b3",
+     "c3a3",
+     "c3c2",
+     "c3c1",
+     "e1f2",
+     "e1e2",
+     "e1d2",
+     "e1f1",
+     "e1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "counterattack",
+  "material": "KBvKR",
+  "fen": "8/8/8/8/8/8/2r1B3/K5k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "e2d1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": -56,
+    "best_replies": [
+     "c2c1"
+    ],
+    "deleted_best": [
+     "c2c1"
+    ]
+   },
+   {
+    "uci": "e2d3",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": -59,
+    "best_replies": [
+     "c2c8",
+     "c2c7",
+     "c2c6",
+     "c2c5",
+     "c2c4",
+     "c2c3",
+     "c2h2",
+     "c2g2",
+     "c2f2",
+     "c2e2",
+     "c2d2",
+     "c2b2",
+     "c2a2",
+     "c2c1",
+     "g1h2",
+     "g1g2",
+     "g1f2",
+     "g1h1"
+    ],
+    "deleted_best": [
+     "c2c3",
+     "c2d2"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "attack_loose",
+  "material": "KBvKR",
+  "fen": "8/8/8/8/8/8/2B5/K5kr w - - 0 1",
+  "moves": [
+   {
+    "uci": "c2d1",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": 322,
+    "best_replies": [
+     "g1h2",
+     "g1g2",
+     "g1f2"
+    ],
+    "deleted_best": [
+     "g1h2",
+     "g1g2",
+     "g1f2"
+    ]
+   },
+   {
+    "uci": "c2b1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": -63,
+    "best_replies": [
+     "h1h8",
+     "h1h7",
+     "h1h6",
+     "h1h5",
+     "h1h4",
+     "h1h3",
+     "h1h2",
+     "g1h2",
+     "g1g2",
+     "g1f2",
+     "g1f1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "attack_guarded",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/8/4rk2/K1Q5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "c1b1",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1415,
+    "nnue": -97,
+    "best_replies": [
+     "e2e1"
+    ],
+    "deleted_best": [
+     "e2e1"
+    ]
+   },
+   {
+    "uci": "c1c3",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1415,
+    "nnue": -229,
+    "best_replies": [
+     "f2g2",
+     "f2g1",
+     "f2f1",
+     "e2e8",
+     "e2e7",
+     "e2e6",
+     "e2e5",
+     "e2e4",
+     "e2e3",
+     "e2d2",
+     "e2c2",
+     "e2b2",
+     "e2a2",
+     "e2e1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "orthogonal_opposition",
+  "material": "KBvKR",
+  "fen": "8/8/8/8/4r3/8/6B1/K2k4 w - - 0 1",
+  "moves": [
+   {
+    "uci": "g2h3",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": 63,
+    "best_replies": [
+     "d1c1"
+    ],
+    "deleted_best": [
+     "d1c1"
+    ]
+   },
+   {
+    "uci": "g2h1",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 90,
+    "nnue": 50,
+    "best_replies": [
+     "e4e8",
+     "e4e7",
+     "e4e6",
+     "e4e5",
+     "e4h4",
+     "e4g4",
+     "e4f4",
+     "e4d4",
+     "e4c4",
+     "e4b4",
+     "e4a4",
+     "e4e3",
+     "e4e2",
+     "e4e1",
+     "d1e2",
+     "d1d2",
+     "d1c2",
+     "d1e1",
+     "d1c1"
+    ],
+    "deleted_best": [
+     "d1c1"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "diagonal_opposition",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/1k6/8/p1R5/K7 w - - 0 1",
+  "moves": [
+   {
+    "uci": "c2c3",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1379,
+    "nnue": -728,
+    "best_replies": [
+     "b4c3"
+    ],
+    "deleted_best": [
+     "b4c3"
+    ]
+   },
+   {
+    "uci": "c2c1",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1379,
+    "nnue": -1548,
+    "best_replies": [
+     "b4b5",
+     "b4a5",
+     "b4a4",
+     "b4b3",
+     "b4a3"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "cut_king",
+  "material": "KNvKR",
+  "fen": "8/8/7r/4N3/8/8/8/K5k1 w - - 0 1",
+  "moves": [
+   {
+    "uci": "e5g4",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 190,
+    "nnue": 38,
+    "best_replies": [
+     "h6e6"
+    ],
+    "deleted_best": [
+     "h6e6"
+    ]
+   },
+   {
+    "uci": "e5d7",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 190,
+    "nnue": -45,
+    "best_replies": [
+     "h6h8",
+     "h6h7",
+     "h6g6",
+     "h6f6",
+     "h6e6",
+     "h6d6",
+     "h6c6",
+     "h6b6",
+     "h6a6",
+     "h6h5",
+     "h6h4",
+     "h6h3",
+     "h6h2",
+     "h6h1",
+     "g1h2",
+     "g1g2",
+     "g1f2",
+     "g1h1",
+     "g1f1"
+    ],
+    "deleted_best": [
+     "h6f6",
+     "h6e6",
+     "h6c6",
+     "h6b6"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "blockade_pawn",
+  "material": "KPvKP",
+  "fen": "8/8/8/1p6/8/5k2/1P6/K7 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b2b3",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 55,
+    "best_replies": [
+     "b5b4"
+    ],
+    "deleted_best": [
+     "b5b4"
+    ]
+   },
+   {
+    "uci": "b2b4",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 0,
+    "nnue": 10,
+    "best_replies": [
+     "f3g4",
+     "f3f4",
+     "f3e4",
+     "f3g3",
+     "f3e3",
+     "f3g2",
+     "f3f2",
+     "f3e2"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "king_blockade",
+  "material": "KPvKP",
+  "fen": "8/8/1pk5/8/8/8/2P5/K7 w - - 0 1",
+  "moves": [
+   {
+    "uci": "c2c4",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": 44,
+    "nnue": 648,
+    "best_replies": [
+     "c6c5"
+    ],
+    "deleted_best": [
+     "c6c5"
+    ]
+   },
+   {
+    "uci": "c2c3",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": 44,
+    "nnue": 50,
+    "best_replies": [
+     "c6d7",
+     "c6c7",
+     "c6b7",
+     "c6d6",
+     "c6d5",
+     "c6c5",
+     "c6b5",
+     "b6b5"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "attack_next_push",
+  "material": "KPvKP",
+  "fen": "8/8/1p6/8/8/8/P7/k1K5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "a2a3",
+    "wdl_black": 1,
+    "restricted_black": 0,
+    "classical": -70,
+    "nnue": 640,
+    "best_replies": [
+     "b6b5"
+    ],
+    "deleted_best": [
+     "b6b5"
+    ]
+   },
+   {
+    "uci": "a2a4",
+    "wdl_black": 0,
+    "restricted_black": 0,
+    "classical": -70,
+    "nnue": 452,
+    "best_replies": [
+     "a1a2"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "approach_white_pawn",
+  "material": "KPvKP",
+  "fen": "8/8/8/8/8/k7/p5P1/K7 w - - 0 1",
+  "moves": [
+   {
+    "uci": "g2g3",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": 0,
+    "nnue": -204,
+    "best_replies": [
+     "a3b4",
+     "a3b3"
+    ],
+    "deleted_best": [
+     "a3b4",
+     "a3b3"
+    ]
+   },
+   {
+    "uci": "g2g4",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": 0,
+    "nnue": -1174,
+    "best_replies": [
+     "a3b4",
+     "a3a4",
+     "a3b3"
+    ],
+    "deleted_best": [
+     "a3b4",
+     "a3b3"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "leave_pawn_square",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/8/2p5/1R6/K2k4 w - - 0 1",
+  "moves": [
+   {
+    "uci": "b2a2",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -208,
+    "nnue": -70,
+    "best_replies": [
+     "c3c2"
+    ],
+    "deleted_best": [
+     "c3c2"
+    ]
+   },
+   {
+    "uci": "b2f2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -208,
+    "nnue": -999,
+    "best_replies": [
+     "d1e1",
+     "d1c1",
+     "c3c2"
+    ],
+    "deleted_best": [
+     "c3c2"
+    ]
+   }
+  ]
+ },
+ {
+  "rule": "king_invasion",
+  "material": "KRvKP",
+  "fen": "8/8/8/8/8/2k5/p2R4/K7 w - - 0 1",
+  "moves": [
+   {
+    "uci": "d2d4",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1379,
+    "nnue": -640,
+    "best_replies": [
+     "c3d4"
+    ],
+    "deleted_best": [
+     "c3d4"
+    ]
+   },
+   {
+    "uci": "d2d1",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1379,
+    "nnue": -1764,
+    "best_replies": [
+     "c3c4",
+     "c3b4",
+     "c3b3",
+     "c3c2"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "mate",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/1r6/5Q2/K1k5 w - - 0 1",
+  "moves": [
+   {
+    "uci": "f2d4",
+    "wdl_black": 1,
+    "restricted_black": -1,
+    "classical": -1478,
+    "nnue": -26,
+    "best_replies": [
+     "b3a3"
+    ],
+    "deleted_best": [
+     "b3a3"
+    ]
+   },
+   {
+    "uci": "f2a2",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1478,
+    "nnue": -240,
+    "best_replies": [
+     "b3b8",
+     "b3b7",
+     "b3b6",
+     "b3b5",
+     "b3b4",
+     "b3h3",
+     "b3g3",
+     "b3f3",
+     "b3e3",
+     "b3d3",
+     "b3c3",
+     "b3a3",
+     "b3b2",
+     "b3b1",
+     "c1d1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ },
+ {
+  "rule": "stalemate",
+  "material": "KQvKR",
+  "fen": "8/8/8/8/8/k7/1r6/K4Q2 w - - 0 1",
+  "moves": [
+   {
+    "uci": "f1b5",
+    "wdl_black": 0,
+    "restricted_black": -1,
+    "classical": -1478,
+    "nnue": -595,
+    "best_replies": [
+     "b2b5"
+    ],
+    "deleted_best": [
+     "b2b5"
+    ]
+   },
+   {
+    "uci": "f1d1",
+    "wdl_black": -1,
+    "restricted_black": -1,
+    "classical": -1478,
+    "nnue": -611,
+    "best_replies": [
+     "a3b4",
+     "b2b8",
+     "b2b7",
+     "b2b6",
+     "b2b5",
+     "b2b4",
+     "b2b3",
+     "b2h2",
+     "b2g2",
+     "b2f2",
+     "b2e2",
+     "b2d2",
+     "b2c2",
+     "b2a2",
+     "b2b1"
+    ],
+    "deleted_best": []
+   }
+  ]
+ }
+]

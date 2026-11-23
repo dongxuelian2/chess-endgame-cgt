@@ -1,0 +1,5 @@
+sample,white,n,zero,nonzero_both_orders_preserved,some_verdict_changes,mean_credit_gains,mean_credit_losses,certified_adjusted_sign
+validation,3,3029,719,1159,1151,251,900,2680
+transfer,3,3979,665,1917,1397,287,1110,3620
+validation,5,3029,2096,919,14,6,8,2995
+transfer,5,33828,13926,19662,240,138,102,33479

@@ -1,0 +1,101 @@
+[
+  {
+    "game": "isnti1uv",
+    "material": 4,
+    "unpinned_fen": "8/8/8/4K3/3R4/1kp5/8/8 b - - 0 1",
+    "pinned_fen": "8/8/8/4K3/8/1kpR4/8/8 b - - 0 1",
+    "push": "c3c2",
+    "original": 1,
+    "after_removing_push": 0,
+    "pinned": 0,
+    "minimum_neutral_depth": "11"
+  },
+  {
+    "game": "boieijcd",
+    "material": 5,
+    "unpinned_fen": "8/8/1Q6/K7/8/5p2/6k1/8 b - - 0 1",
+    "pinned_fen": "8/1Q6/8/K7/8/5p2/6k1/8 b - - 0 1",
+    "push": "f3f2",
+    "original": 0,
+    "after_removing_push": -1,
+    "pinned": -1,
+    "minimum_neutral_depth": ""
+  },
+  {
+    "game": "mtb22p9h",
+    "material": 5,
+    "unpinned_fen": "8/8/6K1/8/8/5pk1/2Q5/8 b - - 0 1",
+    "pinned_fen": "8/8/6K1/8/8/4Qpk1/8/8 b - - 0 1",
+    "push": "f3f2",
+    "original": 0,
+    "after_removing_push": -1,
+    "pinned": -1,
+    "minimum_neutral_depth": "10"
+  },
+  {
+    "game": "tpmzamsi",
+    "material": 5,
+    "unpinned_fen": "8/8/5K2/8/7Q/1kp5/8/8 b - - 0 1",
+    "pinned_fen": "8/8/5K2/8/8/1kpQ4/8/8 b - - 0 1",
+    "push": "c3c2",
+    "original": 0,
+    "after_removing_push": -1,
+    "pinned": -1,
+    "minimum_neutral_depth": "12"
+  },
+  {
+    "game": "wdng0llh",
+    "material": 5,
+    "unpinned_fen": "8/8/8/8/7K/1Qp5/3k4/8 b - - 0 1",
+    "pinned_fen": "8/8/8/8/1Q5K/2p5/3k4/8 b - - 0 1",
+    "push": "c3c2",
+    "original": 0,
+    "after_removing_push": -1,
+    "pinned": -1,
+    "minimum_neutral_depth": "12"
+  },
+  {
+    "game": "ke4ai0s1",
+    "material": 5,
+    "unpinned_fen": "8/4K3/8/8/6Q1/1kp5/8/8 b - - 0 1",
+    "pinned_fen": "8/4K3/8/8/8/1kp2Q2/8/8 b - - 0 1",
+    "push": "c3c2",
+    "original": 0,
+    "after_removing_push": -1,
+    "pinned": -1,
+    "minimum_neutral_depth": ""
+  },
+  {
+    "game": "wbkfebpr",
+    "material": 5,
+    "unpinned_fen": "8/1Q6/6K1/8/8/2pk4/8/8 b - - 0 1",
+    "pinned_fen": "8/8/6K1/8/8/1Qpk4/8/8 b - - 0 1",
+    "push": "c3c2",
+    "original": 0,
+    "after_removing_push": -1,
+    "pinned": -1,
+    "minimum_neutral_depth": "13"
+  },
+  {
+    "game": "lhu5rtne",
+    "material": 5,
+    "unpinned_fen": "8/8/3K3Q/8/8/5p2/6k1/8 b - - 0 1",
+    "pinned_fen": "8/8/2QK4/8/8/5p2/6k1/8 b - - 0 1",
+    "push": "f3f2",
+    "original": 0,
+    "after_removing_push": -1,
+    "pinned": -1,
+    "minimum_neutral_depth": "8"
+  },
+  {
+    "game": "xxv3ae4n",
+    "material": 5,
+    "unpinned_fen": "8/8/4Q3/8/1K6/5p2/6k1/8 b - - 0 1",
+    "pinned_fen": "8/8/8/8/1K2Q3/5p2/6k1/8 b - - 0 1",
+    "push": "f3f2",
+    "original": 0,
+    "after_removing_push": -1,
+    "pinned": -1,
+    "minimum_neutral_depth": "10"
+  }
+]

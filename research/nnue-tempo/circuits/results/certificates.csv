@@ -1,0 +1,16 @@
+task,stage,n,correct_unrounded,individually_sufficient_with_two,jan_fixed_four,certified_fixed_four
+contacts,0,112,79,79,0 2 4 6,58
+contacts,1,1069,698,691,1 2 5 6,463
+contacts,2,3214,2361,2294,0 1 3 5,1958
+contacts,3,6861,4847,4686,0 1 2 5,4167
+contacts,4,10338,7074,6779,1 2 5 7,5264
+contacts,5,12743,8947,8607,2 4 6 7,6664
+contacts,6,14063,10421,9853,2 5 6 7,8144
+contacts,7,13544,11707,11274,0 2 5 6,11032
+forks,1,6,2,2,1 2 5 6,0
+forks,2,43,26,26,0 1 3 5,22
+forks,3,355,256,250,0 1 2 5,180
+forks,4,1011,725,711,1 2 5 7,536
+forks,5,1572,1134,1123,2 4 6 7,612
+forks,6,1529,1054,1045,2 5 6 7,455
+forks,7,541,288,282,0 2 5 6,176

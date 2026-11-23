@@ -1,0 +1,115 @@
+[
+ {
+  "fen": "8/8/6N1/p7/1k6/6K1/6P1/8 w - - 0 1",
+  "cohort": "played",
+  "placements": 702,
+  "native_verified": 686,
+  "hce": [
+   "g6e5",
+   "g3f4",
+   "g3f3"
+  ],
+  "nnue": [
+   "g6f4"
+  ],
+  "refined": [
+   "g6e5"
+  ],
+  "hce_wdl": -0.6666666666666666,
+  "nnue_wdl": 0.0,
+  "refined_wdl": -1.0,
+  "different_wdl_hce_tie": true
+ },
+ {
+  "fen": "8/2k5/8/P1p5/1N6/8/1K6/8 w - - 0 1",
+  "cohort": "played",
+  "placements": 730,
+  "native_verified": 659,
+  "hce": [
+   "b4a6",
+   "b4d3"
+  ],
+  "nnue": [
+   "b4a2"
+  ],
+  "refined": [
+   "b4a6"
+  ],
+  "hce_wdl": 0.5,
+  "nnue_wdl": 1.0,
+  "refined_wdl": 0.0,
+  "different_wdl_hce_tie": true
+ },
+ {
+  "fen": "6k1/8/8/4B3/5K2/7p/8/8 w - - 0 1",
+  "cohort": "random",
+  "placements": 678,
+  "native_verified": 645,
+  "hce": [
+   "e5h8",
+   "e5b8",
+   "e5g7",
+   "e5c7",
+   "e5f6",
+   "e5d6",
+   "e5d4",
+   "e5c3",
+   "e5b2",
+   "e5a1",
+   "f4g5",
+   "f4f5",
+   "f4g4",
+   "f4e4",
+   "f4g3",
+   "f4f3",
+   "f4e3"
+  ],
+  "nnue": [
+   "f4g4",
+   "f4g3"
+  ],
+  "refined": [
+   "f4g4",
+   "f4g3"
+  ],
+  "hce_wdl": -0.5882352941176471,
+  "nnue_wdl": 0.0,
+  "refined_wdl": 0.0,
+  "different_wdl_hce_tie": true
+ },
+ {
+  "fen": "8/8/5K2/1k6/p5B1/8/8/8 w - - 0 1",
+  "cohort": "played",
+  "placements": 977,
+  "native_verified": 881,
+  "hce": [
+   "f6g7",
+   "f6f7",
+   "f6e7",
+   "f6g6",
+   "f6e6",
+   "f6g5",
+   "f6f5",
+   "f6e5",
+   "g4c8",
+   "g4d7",
+   "g4e6",
+   "g4h5",
+   "g4f5",
+   "g4h3",
+   "g4f3",
+   "g4e2",
+   "g4d1"
+  ],
+  "nnue": [
+   "g4d7"
+  ],
+  "refined": [
+   "g4d7"
+  ],
+  "hce_wdl": -0.11764705882352941,
+  "nnue_wdl": 0.0,
+  "refined_wdl": 0.0,
+  "different_wdl_hce_tie": true
+ }
+]
